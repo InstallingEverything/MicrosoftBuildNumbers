@@ -6,3 +6,6 @@ Microsoft Windows Build Numbers
 | Windows 1.02 | Interface Manager | 1.02    |              |   /05/1986   |
 | Windows 1.03 | Interface Manager | 1.03    |              |   /08/1986   |
 | Windows 1.04 | Interface Manager | 1.04    |              |   /04/1987   |
+| Windows 2.01 |                   | 2.01    |              | 09/12/1987   |
+| Windows 2.03 |                   | 2.03    |              | 09/12/1987   |
+| Windows 2.1  |                   | 2.1     |              | 27/05/1988   |
