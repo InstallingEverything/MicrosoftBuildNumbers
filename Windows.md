@@ -1,7 +1,7 @@
 Microsoft Windows Build Numbers
 
 | Name              | Codename          | Version | Build Number | Release Date |
-| ----------------- | :---------------: | :-----: | :----------: | :----------: |
+| :---------------: | :---------------: | :-----: | :----------: | :----------: |
 | Windows 1.01      | Interface Manager |   1.01  |              |  20/11/1985  |
 | Windows 1.02      | Interface Manager |   1.02  |              |  14/05/1986  |
 | Windows 1.03      | Interface Manager |   1.03  |              |  21/08/1986  |
@@ -16,4 +16,5 @@ Microsoft Windows Build Numbers
 | Windows NT 3.1    |      Razzle       |   3.10  |      528     |  27/07/1993  |
 | Windows 3.11      |                   |   3.11  |              |  08/11/1993  |
 | Windows 3.11 WFW  |     Snowball      |   3.11  |      300     |  08/11/1993  |
-| Windows 3.2       |                   |   3.2   |      153     |  08/11/1993  |
+| Windows 3.2       |                   |   3.2   |      153     |  22/11/1993  |
+| Windows NT 3.5    | Daytona           | NT 3.5  |      807     |  21/09/1994  |
