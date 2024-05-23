@@ -21,3 +21,4 @@
 | Windows 3.2       |                   |   3.2   |      153     |  22/11/1993  |
 | Windows NT 3.5    | Daytona           | NT 3.5  |      807     |  21/09/1994  |
 | Windows NT 3.51   | Daytona           | NT 3.51 |     1057     |  30/05/1995  |
+| Windows 95        | Chicago           | 4.00    |     950      |  24/08/1995  |
