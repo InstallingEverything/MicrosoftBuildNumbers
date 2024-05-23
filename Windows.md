@@ -27,4 +27,7 @@
 | Windows 95 SR2     | Chicago           | 4.00    |     950 B    |  24/08/1996  |                                |
 | Windows 95 SR2.1   | Chicago           | 4.00    |     950 B    |  27/08/1996  |                                |
 | Windows 95 SR2.5   | Chicago           | 4.00    |     950 C    |  26/11/1997  |                                |
-| Windows NT 4.0     | Chicago           | 4.00    |     950 C    |  26/11/1997  | Windows NT 4.0 Workstation     |
+| Windows NT 4.0     | Chicago           | NT 4.0  |     1381     |  26/11/1997  | Windows NT 4.0 Workstation     |
+| Windows 98 FE      | Memphis           | 4.10    |     1998     |  25/06/1998  | Windows 98 First Edition       |
+| Windows 98 SE      | Memphis           | 4.10    |     2222A    |  10/06/1999  | Windows 98 Second Edition      |
+| Windows 2000       | Windows NT 5.0    | NT 5.0  |     2195     |  17/02/2000  | Windows 2000 Professional      |
