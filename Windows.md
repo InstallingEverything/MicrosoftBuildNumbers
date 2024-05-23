@@ -1,4 +1,6 @@
-Microsoft Windows Build Numbers
+# **Microsoft Windows Build Numbers**
+
+# **PC/Workstations**
 
 | Name              | Codename          | Version | Build Number | Release Date |
 | :---------------: | :---------------: | :-----: | :----------: | :----------: |
@@ -18,3 +20,4 @@ Microsoft Windows Build Numbers
 | Windows 3.11 WFW  |     Snowball      |   3.11  |      300     |  08/11/1993  |
 | Windows 3.2       |                   |   3.2   |      153     |  22/11/1993  |
 | Windows NT 3.5    | Daytona           | NT 3.5  |      807     |  21/09/1994  |
+| Windows NT 3.51   | Daytona           | NT 3.51 |     1057     |  30/05/1995  |
