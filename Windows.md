@@ -3,7 +3,7 @@
 # **PC/Workstations**
 
 | Name               | Codename          | Version | Build Number | Release Date |
-| :---------------:  | :---------------: | :-----: | :----------: | :----------: |
+| :---------------   | :---------------: | :-----: | :----------: | :----------: |
 | Windows 1.01       | Interface Manager |   1.01  |              |  20/11/1985  |
 | Windows 1.02       | Interface Manager |   1.02  |              |  14/05/1986  |
 | Windows 1.03       | Interface Manager |   1.03  |              |  21/08/1986  |
