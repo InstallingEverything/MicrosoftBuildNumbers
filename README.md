@@ -5,4 +5,4 @@
 
 # **Contents**
 
-- [Windows](https://github.com/InstallingEverything/MicrosoftBuildNumbers/Windows.md)
+- [Windows](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Windows.md)
