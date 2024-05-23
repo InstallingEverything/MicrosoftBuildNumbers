@@ -2,4 +2,7 @@ Microsoft Windows Build Numbers
 
 | Name         | Codename          | Version | Build Number | Release Date |
 | ------------ | ----------------- | ------- | ------------ | ------------ |
-| Windows 1.01 | Interface Manager | 1.01    |              |              |
+| Windows 1.01 | Interface Manager | 1.01    |              | 20/11/1985   |
+| Windows 1.02 | Interface Manager | 1.02    |              |   /05/1986   |
+| Windows 1.03 | Interface Manager | 1.03    |              |   /08/1986   |
+| Windows 1.04 | Interface Manager | 1.04    |              |   /04/1987   |
