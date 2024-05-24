@@ -4,3 +4,7 @@
 | Windows NT 3.1 SP1                                     | Razzle            |NT 3.1   |3.10.528.1         |  23/09/1993  | Windows NT 3.1 Advanced Server Service Pack 1            |
 | Windows NT 3.1 SP2                                     | Razzle            |NT 3.1   |3.10.528.1 (SP2)   |  12/06/1994  | Windows NT 3.1 Advanced Server Service Pack 2            |
 | Windows NT 3.1 SP3                                     | Razzle            |NT 3.1   |3.10.528.1 (SP3)   |  05/10/1994  | Windows NT 3.1 Advanced Server Service Pack 3            |
+| Windows NT 3.5                                         | Daytona           |NT 3.5   |3.5.807.1          |  20/09/1994  | Windows NT 3.5 Server                                    |
+| Windows NT 3.5 SP1                                     | Daytona           |NT 3.5   |3.5.807.1 (SP1)    |  10/01/1995  | Windows NT 3.5 Server Service Pack 1                     |
+| Windows NT 3.5 SP2                                     | Daytona           |NT 3.5   |3.5.807.1 (SP2)    |  04/03/1995  | Windows NT 3.5 Server Service Pack 2                     |
+| Windows NT 3.5 SP3                                     | Daytona           |NT 3.5   |3.5.807.1 (SP3)    |  22/06/1995  | Windows NT 3.5 Server Service Pack 3                     |
