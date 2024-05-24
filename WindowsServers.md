@@ -30,4 +30,5 @@
 | Windows 2000 Service Pack 4                            |Windows NT 5.0      |NT 5.0   |5.0.2195.6717      |  26/06/2003  | Windows 2000 Service Pack 4                              |
 | Windows 2000 Update Rollup 1                           |Windows NT 5.0      |NT 5.0   |5.0.2195.7045      |  28/06/2005  | Windows 2000 Update Rollup 1                             |
 | Windows 2003 Server                                    |Whistler Server     |NT 5.2   |5.2.3790           |  24/04/2003  | Windows 2003, Web, Standard, Enterprise, Datacenter, Storage Server, Compute Cluster, Unified Data Storage Server                             |
-| Windows 2003 Server SP           1                     |Whistler Server     |NT 5.2   |5.2.3790.1830      |  24/04/2003  |Windows 2003 Server Service Pack 1                        |
+| Windows 2003 Server SP1                                |Whistler Server     |NT 5.2   |5.2.3790.1830      |  24/04/2003  |Windows 2003 Server Service Pack 1                        |
+| Windows Server 2003 R2                                 |Whistler Server     |NT 5.2   |5.2.3790.2075      |  06/12/2005  |Windows 2003, Web R2, Standard R2, Enterprise R2, Datacenter R2, Storage Server R2,                            |
