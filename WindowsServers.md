@@ -23,3 +23,9 @@
 | Windows NT 4.0 SP6                                     |Shell Update Release|NT 4.0   |4.0.1381.335       |  27/10/1999  | Windows NT 4.0 Server Service Pack 6                     |
 | Windows NT 4.0 SP6a                                    |Shell Update Release|NT 4.0   |4.0.1381.335a      |  22/11/1999  | Windows NT 4.0 Server Service Pack 6a                    |
 | Windows NT 4.0 Security Rollup                         |Shell Update Release|NT 4.0   |4.0.1381.7097      |  26/07/2001  | Windows NT 4.0 Server Security Rollup                    |
+| Windows 2000                                           |Windows NT 5.0      |NT 5.0   |5.0.2195.1         |  17/02/2000  | Windows NT 5.0 Server, Advanced Server, Datacenter Server|
+| Windows 2000 Service Pack 1                            |Windows NT 5.0      |NT 5.0   |5.0.2195.1620      |  31/07/2000  | Windows 2000 Service Pack 1                              |
+| Windows 2000 Service Pack 2                            |Windows NT 5.0      |NT 5.0   |5.0.2195.2951      |  16/05/2001  | Windows 2000 Service Pack 2                              |
+| Windows 2000 Service Pack 3                            |Windows NT 5.0      |NT 5.0   |5.0.2195.5438      |  29/08/2002  | Windows 2000 Service Pack 3                              |
+| Windows 2000 Service Pack 4                            |Windows NT 5.0      |NT 5.0   |5.0.2195.6717      |  26/06/2003  | Windows 2000 Service Pack 4                              |
+| Windows 2000 Update Rollup 1                           |Windows NT 5.0      |NT 5.0   |5.0.2195.7045      |  28/06/2005  | Windows 2000 Update Rollup 1                             |
