@@ -8,6 +8,12 @@
 | Windows NT 3.5 SP1                                     | Daytona            |NT 3.5   |3.5.807.1 (SP1)    |  10/01/1995  | Windows NT 3.5 Server Service Pack 1                     |
 | Windows NT 3.5 SP2                                     | Daytona            |NT 3.5   |3.5.807.1 (SP2)    |  04/03/1995  | Windows NT 3.5 Server Service Pack 2                     |
 | Windows NT 3.5 SP3                                     | Daytona            |NT 3.5   |3.5.807.1 (SP3)    |  22/06/1995  | Windows NT 3.5 Server Service Pack 3                     |
+| Windows NT 3.51                                        | Daytona            |NT 3.51  |3.51.1057.1        |  29/05/1995  | Windows NT 3.51 Server                                   |
+| Windows NT 3.51 SP1                                    | Daytona            |NT 3.51  |3.51.1057.2        |  06/09/1995  | Windows NT 3.51 Server Service Pack 1                    |
+| Windows NT 3.51 SP2                                    | Daytona            |NT 3.51  |3.51.1057.3        |  08/10/1995  | Windows NT 3.51 Server Service Pack 2                    |
+| Windows NT 3.51 SP3                                    | Daytona            |NT 3.51  |3.51.1057.4        |  21/11/1995  | Windows NT 3.51 Server Service Pack 3                    |
+| Windows NT 3.51 SP4                                    | Daytona            |NT 3.51  |3.51.1057.5        |  07/03/1996  | Windows NT 3.51 Server Service Pack 4                    |
+| Windows NT 3.51 SP5                                    | Daytona            |NT 3.51  |3.51.1057.6        |  20/09/1996  | Windows NT 3.51 Server Service Pack 5                    |
 | Windows NT 4.0                                         |Shell Update Release|NT 4.0   |4.0.1381.1         |  31/07/1996  | Windows NT 4.0 Server, Server Enterprise, Terminal Server Edition                                    |
 | Windows NT 4.0 SP1                                     |Shell Update Release|NT 4.0   |4.0.1381.2         |  16/10/1996  | Windows NT 4.0 Server Service Pack 1                     |
 | Windows NT 4.0 SP2                                     |Shell Update Release|NT 4.0   |4.0.1381.3         |  14/12/1996  | Windows NT 4.0 Server Service Pack 2                     |
