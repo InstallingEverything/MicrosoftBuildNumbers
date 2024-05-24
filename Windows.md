@@ -40,4 +40,6 @@
 | Windows XP Tablet PC Edition                           |                   | NT 5.1  |     2600.1106     |  07/11/2002  | Windows XP Tablet PC Edition                             |
 | Windows XP Tablet PC Edition 2005                      | Lonestar          | NT 5.1  |     2600.2180     |  07/11/2002  | Windows XP Tablet PC Edition 2005                        |
 | Windows XP x64 Edition                                 | Anvil             | NT 5.2  |     3790          |  25/04/2005  | Windows XP Professional x64 Edition                      |
-| Windows Vista                                          | Longhorn          | NT 6.0  |     6002          |  30/01/2007  | Windows Vista, Starter, Home Basic, Home Premium, Business, Enterprise, Ultimate                      |
+| Windows Vista                                          | Longhorn          | NT 6.0  |     6002.16386    |  30/01/2007  | Windows Vista, Starter, Home Basic, Home Premium, Business, Enterprise, Ultimate                      |
+| Windows Vista SP1                                      | Longhorn          | NT 6.0  |     6002.18000    |  18/02/2008  | Windows Vista Service Pack 1                             |
+| Windows Vista SP2                                      | Longhorn          | NT 6.0  |     6002.18005    |  26/05/2009  | Windows Vista Service Pack 2                             |
