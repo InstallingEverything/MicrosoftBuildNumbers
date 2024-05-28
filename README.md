@@ -7,5 +7,6 @@
 
 # **Contents**
 
+- [Windows CE](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/WindowsCE.md)
 - [Windows PC/Workstations](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Windows.md)
 - [Windows Servers](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/WindowsServers.md)
