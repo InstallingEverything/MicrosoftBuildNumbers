@@ -43,8 +43,8 @@
 | Windows XP Media Center Edition 2004                   | Harmony           | NT 5.1  |     2600          |  30/09/2003  | Windows XP Media Center Edition 2004                     |
 | Windows XP Media Center Edition 2005                   | Symphony          | NT 5.1  |     2700          |  12/10/2004  | Windows XP Media Center Edition 2005                     |
 | Windows XP Media Center Edition 2005 Update Rollup 2   | Emerald           | NT 5.1  |     2710          |  14/10/2005  | Windows XP Media Center Edition 2005 Update Rollup 2     |
-| Windows XP Tablet PC Edition                           |                   | NT 5.1  |     2600.1106     |  07/11/2002  | Windows XP Tablet PC Edition                             |
-| Windows XP Tablet PC Edition 2005                      | Lonestar          | NT 5.1  |     2600.2180     |  07/11/2002  | Windows XP Tablet PC Edition 2005                        |
+| Windows XP Tablet PC Edition                           | Lonestar          | NT 5.1  |     2600.1106     |  07/11/2002  | Windows XP Tablet PC Edition                             |
+| Windows XP Tablet PC Edition 2005                      | Vex               | NT 5.1  |     2600.2180     |  07/11/2002  | Windows XP Tablet PC Edition 2005                        |
 | Windows XP x64 Edition                                 | Anvil             | NT 5.2  |     3790          |  25/04/2005  | Windows XP Professional x64 Edition                      |
 | Windows Vista                                          | Longhorn          | NT 6.0  |     6002.16386    |  30/01/2007  | Windows Vista, Starter, Home Basic, Home Premium, Business, Enterprise, Ultimate                      |
 | Windows Vista SP1                                      | Longhorn          | NT 6.0  |     6002.18000    |  18/02/2008  | Windows Vista Service Pack 1                             |
