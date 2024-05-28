@@ -24,3 +24,7 @@
 **Office**
 
 - [Office](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Office.md)
+
+**Internet Explorer**
+
+- [Internet Explorer](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/IE.md)
