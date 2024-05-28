@@ -34,10 +34,11 @@
 | Windows 98 SE                                          | Memphis           | 4.10    |4.10.2222A         |  10/06/1999  | Windows 98 Second Edition                                |
 | Windows ME                                             | Millennium        | 4.90    |4.90.3000          |  14/09/2000  | Windows Millennium Edition                               |
 | Windows 2000                                           | Windows NT 5.0    | NT 5.0  |5.0.2195.1         |  17/02/2000  | Windows 2000 Professional                                |
-| Windows 2000 SP1                                       | Windows NT 5.0    | NT 5.0  |5.0.2195.1620      |  31/07/2000  | Windows 2000 Professional SP1                            |
+| Windows 2000 SP1                                       | Asteroid          | NT 5.0  |5.0.2195.1620      |  31/07/2000  | Windows 2000 Professional SP1                            |
 | Windows 2000 SP2                                       | Windows NT 5.0    | NT 5.0  |5.0.2195.2793      |  16/05/2001  | Windows 2000 Professional SP2                            |
 | Windows 2000 SP3                                       | Windows NT 5.0    | NT 5.0  |5.0.2195.4448      |  29/08/2002  | Windows 2000 Professional SP3                            |
 | Windows 2000 SP4                                       | Windows NT 5.0    | NT 5.0  |5.0.2195.6717      |  26/06/2003  | Windows 2000 Professional SP4                            |
+| Windows 2000 SP4 Update Rollup                         | W2KSRP            | NT 5.0  |5.0.2195.7045      |  26/06/2003  | Windows 2000 Professional SP4 Update Rollup              |
 | Windows XP                                             | Whistler          | NT 5.1  |     2600          |  25/10/2001  | Windows Starter/ Home/ Professional                      |
 | Windows XP Media Center Edition 2003                   | Freestyle         | NT 5.1  |     2600          |  29/10/2002  | Windows XP Media Center Edition                          |
 | Windows XP Media Center Edition 2004                   | Harmony           | NT 5.1  |     2600          |  30/09/2003  | Windows XP Media Center Edition 2004                     |
