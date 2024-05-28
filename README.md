@@ -17,6 +17,10 @@
 
 # **Applications**
 
+**Plus**
+
+- [Plus](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Plus.md)
+
 **Office**
 
 - [Office](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Office.md)
