@@ -1,7 +1,5 @@
 # **Microsoft Windows Build Numbers**
 
-# **PC/Workstations**
-
 | Name                                                   | Codename          | Version | Build Number      | Release Date | Release Name                                             |
 | :----------------------------------------------------- | :---------------: | :-----: | :---------------: | -----------: | :------------------------------------------------------- |
 | Windows 1.01                                           | Interface Manager |   1.01  |                   |  20/11/1985  |                                                          |
