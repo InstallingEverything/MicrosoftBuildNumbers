@@ -54,3 +54,18 @@
 | Windows 8                                              | Windows8/Midori   | NT 6.2  |     6.2.9200      |  06/11/2011  | Windows 8 Home, Pro, Enterprise                          |
 | Windows 8.1                                            | Windows8/Midori   | NT 6.3  |     6.3.9200      |  17/10/2013  | Windows 8.1 Home, Pro, Enterprise                        |
 | Windows 8.1 Update 1                                   | Blue              | NT 6.3  |     6.3.9600      |  17/10/2013  | Windows 8.1 Update 1                                     |
+| Windows 10 (1507)                                      | Threshold         | NT 10.0 |    10.0.10240     |  29/07/2015  | Windows 10 (1507) Home, Pro, Education, Enterprise, S    |
+| Windows 10 (November Update) (1511)                    | Threshold 2       |   1511  |    10.0.10586     |  10/11/2015  | Windows 10 (November Update) (1511)                      |
+| Windows 10 (Anniversary Update) (1607)                 | Redstone 1        |   1607  |    10.0.14393     |  02/08/2016  | Windows 10 (Anniversary Update) (1607)                   |
+| Windows 10 (Creators Update) (1703)                    | Redstone 2        |   1703  |    10.0.15063     |  02/08/2016  | Windows 10 (Creators Update) (1703)                      |
+| Windows 10 (Fall Creators Update) (1709)               | Redstone 3        |   1709  |    10.0.16299     |  17/10/2017  | Windows 10 (Fall Creators Update) (1709)                 |
+| Windows 10 (April 2018 Update) (1803)                  | Redstone 4        |   1803  |    10.0.17134     |  30/04/2018  | Windows 10 (April 2018 Update) (1803)                    |
+| Windows 10 (October 2018 Update) (1809)                | Redstone 5        |   1809  |    10.0.17763     |  02/10/2018  | Windows 10 (October 2018 Update) (1809)                  |
+| Windows 10 (May 2019 Update) (1903)                    | 19H1              |   1903  |    10.0.18362     |  21/05/2019  | Windows 10 (May 2019 Update) (1903)                      |
+| Windows 10 (November 2019 Update) (1909)               | Vanadium          |   1903  |    10.0.18363     |  12/11/2019  | Windows 10 (November 2019 Update) (1909)                 |
+| Windows 10 (May 2020 Update) (2004)                    | Vibranium         |   1903  |    10.0.19041     |  27/05/2020  | Windows 10 (May 2020 Update) (2004)                      |
+| Windows 10 (October 2020 Update) (20H2)                | Vibranium         |   20H2  |    10.0.19042     |  20/10/2020  | Windows 10 (October 2020 Update) (20H2)                  |
+| Windows 10 (May 2021 Update) (21H1)                    | Vibranium         |   21H1  |    10.0.19043     |  18/05/2021  | Windows 10 (May 2021 Update) (21H1)                      |
+| Windows 10 (November 2021 Update) (21H2)               | Vibranium         |   21H2  |    10.0.19044     |  16/11/2021  | Windows 10 (November 2021 Update) (21H2)                 |
+| Windows 10 (2022 Update) (22H2)                        | Vibranium         |   22H2  |    10.0.19045     |  18/10/2022  | Windows 10 (2022 Update) (22H2)                          |
+
