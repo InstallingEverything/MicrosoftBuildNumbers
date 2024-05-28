@@ -40,6 +40,9 @@
 | Windows 2000 SP4                                       | Windows NT 5.0    | NT 5.0  |5.0.2195.6717      |  26/06/2003  | Windows 2000 Professional SP4                            |
 | Windows 2000 SP4 Update Rollup                         | W2KSRP            | NT 5.0  |5.0.2195.7045      |  26/06/2003  | Windows 2000 Professional SP4 Update Rollup              |
 | Windows XP                                             | Whistler          | NT 5.1  |     2600          |  25/10/2001  | Windows Starter/ Home/ Professional                      |
+| Windows XP SP1                                         | Trainyard         | NT 5.1  |2600.1106          |  09/09/2002  | Windows XP Service Pack 1                                |
+| Windows XP SP2                                         | Springboard       | NT 5.1  |2600.2180          |  25/09/2004  | Windows XP Service Pack 2                                |
+| Windows XP SP3                                         |                   | NT 5.1  |2600.5512          |  21/04/2008  | Windows XP Service Pack 3                                |
 | Windows XP Media Center Edition 2003                   | Freestyle         | NT 5.1  |     2600          |  29/10/2002  | Windows XP Media Center Edition                          |
 | Windows XP Media Center Edition 2004                   | Harmony           | NT 5.1  |     2600          |  30/09/2003  | Windows XP Media Center Edition 2004                     |
 | Windows XP Media Center Edition 2005                   | Symphony          | NT 5.1  |     2700          |  12/10/2004  | Windows XP Media Center Edition 2005                     |
