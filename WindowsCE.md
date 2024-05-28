@@ -1,3 +1,11 @@
 | Name                                                   | Codename          | Version | Build Number      | Release Date | Release Name                                             |
 | :----------------------------------------------------- | :---------------: | :-----: | :---------------: | -----------: | :------------------------------------------------------- |
 | Windows CE 1.0                                         | Pegasus, Alder    |   1.0   |                   |  16/11/1996  |                                                          |
+| Windows CE 2.0                                         | Birch             |   2.0   |                   |  29/09/1997  |                                                          |
+| Windows CE 3.0                                         | Cedar             |   3.0   |                   |  15/06/2000  |                                                          |
+| Windows CE 4.0                                         | Talisker          |   4.0   |                   |  07/01/2002  |Windows CE.NET                                            |
+| Windows CE 4.1                                         | Jameson           |   4.1   |                   |  16/11/1996  |                                                          |
+| Windows CE 4.2                                         | McKendric         |   4.2   |                   |  16/11/1996  |                                                          |
+| Windows CE 5.0                                         | Macallan          |   4.3   |                   |  09/07/2004  |                                                          |
+| Windows Embedded CE 6.0                                | Yamazaki          | CE 6.0  |                   |  01/11/2006  |Windows CE 6.0                                            |
+| Windows Embedded CE 7                                  | Chelan            |   CE 7  |                   |  01/03/2011  |Windows Embedded CE 7                                     |
