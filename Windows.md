@@ -52,7 +52,7 @@
 | Windows 7                                              | Whistler          | NT 6.1  |     7600.16385    |  22/10/2009  | Windows 7, Starter, Home Basic, Home Premium, Professional, Enterprise, Ultimate                             |
 | Windows 7                                              | Whistler          | NT 6.1  |     7601.17514    |  09/02/2011  | Windows 7 Service Pack 1                                 |
 | Windows 8                                              | Windows8/Midori   | NT 6.2  |     6.2.9200      |  06/11/2011  | Windows 8 Home, Pro, Enterprise                          |
-| Windows 8.1                                            | Windows8/Midori   | NT 6.3  |     6.3.9200      |  17/10/2013  | Windows 8.1 Home, Pro, Enterprise                        |
+| Windows 8.1                                            | Blue              | NT 6.3  |     6.3.9200      |  17/10/2013  | Windows 8.1 Home, Pro, Enterprise                        |
 | Windows 8.1 Update 1                                   | Blue              | NT 6.3  |     6.3.9600      |  17/10/2013  | Windows 8.1 Update 1                                     |
 | Windows 10 (1507)                                      | Threshold         | NT 10.0 |    10.0.10240     |  29/07/2015  | Windows 10 (1507) Home, Pro, Education, Enterprise, S    |
 | Windows 10 (November Update) (1511)                    | Threshold 2       |   1511  |    10.0.10586     |  10/11/2015  | Windows 10 (November Update) (1511)                      |
