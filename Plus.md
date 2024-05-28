@@ -5,5 +5,5 @@
 | Microsoft Plus! for Windows 98                         |                   | 4.80    | 4.80.1998         |  25/06/1998  | Microsoft Plus! for Windows 98                           |
 | Microsoft Plus! for Windows XP                         |                   | 5.1     | 1.0.0.554         |  25/10/2001  | Microsoft Plus! for Windows XP                           |
 | Microsoft Plus! for Windows XP SP1                     |                   | 5.1     | 1.0.1.732         |  25/05/2002  | Microsoft Plus! for Windows XP SP1                       |
-| Microsoft Plus! Digital Media Edition                  |                   | 5.1     | 1.0.1.2428        |  07/01/2003  | Microsoft Plus! Digital Media Edition                    |
+| Microsoft Plus! Digital Media Edition                  | Lime              | 5.1     | 1.0.1.2428        |  07/01/2003  | Microsoft Plus! Digital Media Edition                    |
 | Microsoft Plus! SuperPack for Windows XP               |                   | 5.1     |                   |  19/10/2004  | Microsoft Plus! SuperPack for Windows XP                 |
