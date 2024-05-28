@@ -13,5 +13,7 @@
 - [Windows PC/Workstations](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Windows.md)
 - [Windows Servers](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/WindowsServers.md)
 
-# **Office**
+# **Applications**
+
+**Office**
 
