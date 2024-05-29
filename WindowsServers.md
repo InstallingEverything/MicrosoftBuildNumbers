@@ -35,3 +35,4 @@
 | Windows 2008 Server                                    |Longhorn Server     |NT 6.0   |6001.18000         |  27/02/2008  | Windows 2008, Web, Standard, Enterprise, Datacenter, Storage Server, Foundation                            |
 | Windows 2008 R2 Server                                 |Windows Server 7    |NT 6.1   |7600.16385         |  22/10/2009  | Windows 2008 R2, Web, Standard, Enterprise, Datacenter, Storage Server, Foundation                            |
 | Windows 2008 R2 Server Service Pack 1                  |Windows Server 7    |NT 6.1   |7601.17514         |  09/02/2011  | Windows 2008 R2 Service Pack 1                           |
+| Windows 2012                                           |Windows Server 8    |NT 6.2   |9200.16384         |  04/09/2012  | Windows 2012, Foundation, Essentials, Standard, Datacenter                            |
