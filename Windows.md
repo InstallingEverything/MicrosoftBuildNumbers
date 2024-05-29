@@ -70,4 +70,7 @@
 | Windows 10 (May 2021 Update) (21H1)                    | Vibranium         |   21H1  |    10.0.19043     |  18/05/2021  | Windows 10 (May 2021 Update) (21H1)                      |
 | Windows 10 (November 2021 Update) (21H2)               | Vibranium         |   21H2  |    10.0.19044     |  16/11/2021  | Windows 10 (November 2021 Update) (21H2)                 |
 | Windows 10 (2022 Update) (22H2)                        | Vibranium         |   22H2  |    10.0.19045     |  18/10/2022  | Windows 10 (2022 Update) (22H2)                          |
+| Windows 11 (21H2)                                      | Sun Valley        |   21H2  | 22000.194         |  05/10/2021  | Windows 11 (21H2)                                        |
+| Windows 11 (22H2)                                      | Sun Valley 2      |   22H2  | 22621.382         |  20/09/2022  | Windows 11 (22H2)                                        |
+| Windows 11 (23H2)                                      | Sun Valley 2      |   23H2  | 22631.2715        |  14/11/2023  | Windows 11 (23H2)                                        |
 
