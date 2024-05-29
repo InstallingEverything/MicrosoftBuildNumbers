@@ -1,7 +1,5 @@
 # **Microsoft Windows Build Numbers**
 
-# **PC/Workstations**
-
 | Name                                                   | Codename          | Version | Build Number      | Release Date | Release Name                                             |
 | :----------------------------------------------------- | :---------------: | :-----: | :---------------: | -----------: | :------------------------------------------------------- |
 | Windows 1.01                                           | Interface Manager |   1.01  |                   |  20/11/1985  |                                                          |
@@ -34,17 +32,21 @@
 | Windows 98 SE                                          | Memphis           | 4.10    |4.10.2222A         |  10/06/1999  | Windows 98 Second Edition                                |
 | Windows ME                                             | Millennium        | 4.90    |4.90.3000          |  14/09/2000  | Windows Millennium Edition                               |
 | Windows 2000                                           | Windows NT 5.0    | NT 5.0  |5.0.2195.1         |  17/02/2000  | Windows 2000 Professional                                |
-| Windows 2000 SP1                                       | Windows NT 5.0    | NT 5.0  |5.0.2195.1620      |  31/07/2000  | Windows 2000 Professional SP1                            |
+| Windows 2000 SP1                                       | Asteroid          | NT 5.0  |5.0.2195.1620      |  31/07/2000  | Windows 2000 Professional SP1                            |
 | Windows 2000 SP2                                       | Windows NT 5.0    | NT 5.0  |5.0.2195.2793      |  16/05/2001  | Windows 2000 Professional SP2                            |
 | Windows 2000 SP3                                       | Windows NT 5.0    | NT 5.0  |5.0.2195.4448      |  29/08/2002  | Windows 2000 Professional SP3                            |
 | Windows 2000 SP4                                       | Windows NT 5.0    | NT 5.0  |5.0.2195.6717      |  26/06/2003  | Windows 2000 Professional SP4                            |
+| Windows 2000 SP4 Update Rollup                         | W2KSRP            | NT 5.0  |5.0.2195.7045      |  26/06/2003  | Windows 2000 Professional SP4 Update Rollup              |
 | Windows XP                                             | Whistler          | NT 5.1  |     2600          |  25/10/2001  | Windows Starter/ Home/ Professional                      |
+| Windows XP SP1                                         | Trainyard         | NT 5.1  |2600.1106          |  09/09/2002  | Windows XP Service Pack 1                                |
+| Windows XP SP2                                         | Springboard       | NT 5.1  |2600.2180          |  25/09/2004  | Windows XP Service Pack 2                                |
+| Windows XP SP3                                         |                   | NT 5.1  |2600.5512          |  21/04/2008  | Windows XP Service Pack 3                                |
 | Windows XP Media Center Edition 2003                   | Freestyle         | NT 5.1  |     2600          |  29/10/2002  | Windows XP Media Center Edition                          |
 | Windows XP Media Center Edition 2004                   | Harmony           | NT 5.1  |     2600          |  30/09/2003  | Windows XP Media Center Edition 2004                     |
 | Windows XP Media Center Edition 2005                   | Symphony          | NT 5.1  |     2700          |  12/10/2004  | Windows XP Media Center Edition 2005                     |
 | Windows XP Media Center Edition 2005 Update Rollup 2   | Emerald           | NT 5.1  |     2710          |  14/10/2005  | Windows XP Media Center Edition 2005 Update Rollup 2     |
-| Windows XP Tablet PC Edition                           |                   | NT 5.1  |     2600.1106     |  07/11/2002  | Windows XP Tablet PC Edition                             |
-| Windows XP Tablet PC Edition 2005                      | Lonestar          | NT 5.1  |     2600.2180     |  07/11/2002  | Windows XP Tablet PC Edition 2005                        |
+| Windows XP Tablet PC Edition                           | Lonestar          | NT 5.1  |     2600.1106     |  07/11/2002  | Windows XP Tablet PC Edition                             |
+| Windows XP Tablet PC Edition 2005                      | Vex               | NT 5.1  |     2600.2180     |  07/11/2002  | Windows XP Tablet PC Edition 2005                        |
 | Windows XP x64 Edition                                 | Anvil             | NT 5.2  |     3790          |  25/04/2005  | Windows XP Professional x64 Edition                      |
 | Windows Vista                                          | Longhorn          | NT 6.0  |     6002.16386    |  30/01/2007  | Windows Vista, Starter, Home Basic, Home Premium, Business, Enterprise, Ultimate                      |
 | Windows Vista SP1                                      | Longhorn          | NT 6.0  |     6002.18000    |  18/02/2008  | Windows Vista Service Pack 1                             |
@@ -68,4 +70,7 @@
 | Windows 10 (May 2021 Update) (21H1)                    | Vibranium         |   21H1  |    10.0.19043     |  18/05/2021  | Windows 10 (May 2021 Update) (21H1)                      |
 | Windows 10 (November 2021 Update) (21H2)               | Vibranium         |   21H2  |    10.0.19044     |  16/11/2021  | Windows 10 (November 2021 Update) (21H2)                 |
 | Windows 10 (2022 Update) (22H2)                        | Vibranium         |   22H2  |    10.0.19045     |  18/10/2022  | Windows 10 (2022 Update) (22H2)                          |
+| Windows 11 (21H2)                                      | Sun Valley        |   21H2  | 22000.194         |  05/10/2021  | Windows 11 (21H2)                                        |
+| Windows 11 (22H2)                                      | Sun Valley 2      |   22H2  | 22621.382         |  20/09/2022  | Windows 11 (22H2)                                        |
+| Windows 11 (23H2)                                      | Sun Valley 2      |   23H2  | 22631.2715        |  14/11/2023  | Windows 11 (23H2)                                        |
 
