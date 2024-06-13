@@ -51,8 +51,8 @@
 | Windows Vista                                          | Longhorn          | NT 6.0  |     6002.16386    |  30/01/2007  | Windows Vista, Starter, Home Basic, Home Premium, Business, Enterprise, Ultimate                      |
 | Windows Vista SP1                                      | Longhorn          | NT 6.0  |     6002.18000    |  18/02/2008  | Windows Vista Service Pack 1                             |
 | Windows Vista SP2                                      | Longhorn          | NT 6.0  |     6002.18005    |  26/05/2009  | Windows Vista Service Pack 2                             |
-| Windows 7                                              | Whistler          | NT 6.1  |     7600.16385    |  22/10/2009  | Windows 7, Starter, Home Basic, Home Premium, Professional, Enterprise, Ultimate                             |
-| Windows 7                                              | Whistler          | NT 6.1  |     7601.17514    |  09/02/2011  | Windows 7 Service Pack 1                                 |
+| Windows 7                                              | Blackcomb         | NT 6.1  |     7600.16385    |  22/10/2009  | Windows 7, Starter, Home Basic, Home Premium, Professional, Enterprise, Ultimate                             |
+| Windows 7 SP1                                          | Blackcomb         | NT 6.1  |     7601.17514    |  09/02/2011  | Windows 7 Service Pack 1                                 |
 | Windows 8                                              | Windows8/Midori   | NT 6.2  |     6.2.9200      |  06/11/2011  | Windows 8 Home, Pro, Enterprise                          |
 | Windows 8.1                                            | Blue              | NT 6.3  |     6.3.9200      |  17/10/2013  | Windows 8.1 Home, Pro, Enterprise                        |
 | Windows 8.1 Update 1                                   | Blue              | NT 6.3  |     6.3.9600      |  17/10/2013  | Windows 8.1 Update 1                                     |
