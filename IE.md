@@ -33,3 +33,6 @@
 | Internet Explorer 7.0 SP2                              | Rincon            |   7.0   |                   |  26/05/2009  | Internet Explorer 7.0 SP2                                |
 | Internet Explorer 8.0                                  | Teahapoo          |   8.0   |                   |  19/03/2009  | Internet Explorer 8.0                                    |
 | Internet Explorer 8.0 SP1                              | Teahapoo          |   8.0   |                   |  09/02/2011  | Internet Explorer 8.0 SP1                                |
+| Internet Explorer 9.0                                  |                   |   9.0   | 9.0.8112.16421    |  14/03/2011  | Internet Explorer 9.0                                    |
+| Internet Explorer 10.0                                 |                   |  10.0   |                   |  26/10/2012  | Internet Explorer 10.0                                   |
+| Internet Explorer 11.0                                 |                   |  11.0   |                   |  17/10/2013  | Internet Explorer 11.0                                   |
