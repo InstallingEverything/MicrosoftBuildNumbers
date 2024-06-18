@@ -49,6 +49,7 @@
 | Windows XP Tablet PC Edition 2005                      | Vex               | NT 5.1  |     2600.2180     |  07/11/2002  | Windows XP Tablet PC Edition 2005                        |
 | Windows XP x64 Edition                                 | Anvil             | NT 5.2  |     3790          |  25/04/2005  | Windows XP Professional x64 Edition                      |
 | Windows Vista                                          | Longhorn          | NT 6.0  |     6002.16386    |  30/01/2007  | Windows Vista, Starter, Home Basic, Home Premium, Business, Enterprise, Ultimate                      |
+| Windows Vista, Media Center Addon                      | Diamond           | NT 6.0  |     6002.16386    |              | Windows Vista With Media Center                          |
 | Windows Vista SP1                                      | Longhorn          | NT 6.0  |     6002.18000    |  18/02/2008  | Windows Vista Service Pack 1                             |
 | Windows Vista SP2                                      | Longhorn          | NT 6.0  |     6002.18005    |  26/05/2009  | Windows Vista Service Pack 2                             |
 | Windows 7                                              | Blackcomb         | NT 6.1  |     7600.16385    |  22/10/2009  | Windows 7, Starter, Home Basic, Home Premium, Professional, Enterprise, Ultimate                             |
