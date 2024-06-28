@@ -38,9 +38,12 @@
 | Windows 2000 Small Business Server SP1a                |Windows NT 5.0      |NT 5.0   |5.0.1343.0         |  19/06/2003  | Windows 2000 Small Business Server SP1a                  |
 | Windows 2003 Server                                    |Whistler Server     |NT 5.2   |5.2.3790           |  24/04/2003  | Windows 2003, Web, Standard, Enterprise, Datacenter, Storage Server, Compute Cluster, Unified Data Storage Server                             |
 | Windows 2003 Server SP1                                |Whistler Server     |NT 5.2   |5.2.3790.1830      |  24/04/2003  |Windows 2003 Server Service Pack 1                        |
+| Windows 2003 Small Business Server                     |Bobcat              |NT 5.2   |5.2.2651.030910-1600|  16/09/2003  |Windows Small Business Server 2003                        |
+| Windows 2003 Small Business Server SP1                 |Bobcat              |NT 5.2   |5.2.2893.050429-1656|  19/05/2005  |Windows Small Business Server 2003 Service Pack 1         |
 | Windows Server 2003 R2                                 |Whistler Server     |NT 5.2   |5.2.3790.2075      |  06/12/2005  |Windows 2003, Web R2, Standard R2, Enterprise R2, Datacenter R2, Storage Server R2,                            |
 | Windows Home Server                                    |Quattro             |NT 5.2   |5.2.4500           |  04/11/2007  |Windows Home Server                                       |
 | Windows 2008 Server                                    |Longhorn Server     |NT 6.0   |6001.18000         |  27/02/2008  | Windows 2008, Web, Standard, Enterprise, Datacenter, Storage Server, Foundation                            |
+| Windows Small Business Server 2008                     |Cougar              |NT 6.0   |5601.080812-1706   |  21/09/2008  | Windows Small Business Server 2008                       |
 | Windows 2008 R2 Server                                 |Windows Server 7    |NT 6.1   |7600.16385         |  22/10/2009  | Windows 2008 R2, Web, Standard, Enterprise, Datacenter, Storage Server, Foundation                            |
 | Windows 2008 R2 Server Service Pack 1                  |Windows Server 7    |NT 6.1   |7601.17514         |  09/02/2011  | Windows 2008 R2 Service Pack 1                           |
 | Windows Home Server 2011                               |Vail                |NT 6.1   |8800.16385         |  06/04/2011  | Windows Home Server 2011                                 |
