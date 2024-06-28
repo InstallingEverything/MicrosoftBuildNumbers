@@ -44,6 +44,7 @@
 | Windows Home Server                                    |Quattro             |NT 5.2   |5.2.4500           |  04/11/2007  |Windows Home Server                                       |
 | Windows 2008 Server                                    |Longhorn Server     |NT 6.0   |6001.18000         |  27/02/2008  | Windows 2008, Web, Standard, Enterprise, Datacenter, Storage Server, Foundation                            |
 | Windows Small Business Server 2008                     |Cougar              |NT 6.0   |5601.080812-1706   |  21/09/2008  | Windows Small Business Server 2008                       |
+| Windows Essential Business Server 2008                 |Centro              |NT 6.0   |5700.0.080902-1741 |  12/11/2008  | Windows Essential Business Server 2008                   |
 | Windows 2008 R2 Server                                 |Windows Server 7    |NT 6.1   |7600.16385         |  22/10/2009  | Windows 2008 R2, Web, Standard, Enterprise, Datacenter, Storage Server, Foundation                            |
 | Windows 2008 R2 Server Service Pack 1                  |Windows Server 7    |NT 6.1   |7601.17514         |  09/02/2011  | Windows 2008 R2 Service Pack 1                           |
 | Windows Home Server 2011                               |Vail                |NT 6.1   |8800.16385         |  06/04/2011  | Windows Home Server 2011                                 |
