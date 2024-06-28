@@ -36,6 +36,7 @@
 | Windows NT 4.0 SP6                                     | Cairo             | NT 4.0  |4.0.1381.335       |  27/10/1999  | Windows NT 4.0 Workstation Service Pack 6                |
 | Windows NT 4.0 SP6a                                    | Cairo             | NT 4.0  |4.0.1381.335a      |  22/11/1999  | Windows NT 4.0 Workstation Service Pack 6a               |
 | Windows NT 4.0 Security Rollup                         | Cairo             | NT 4.0  |4.0.1381.7097      |  26/07/2001  | Windows NT 4.0 Workstation Security Rollup (Q299444)     |
+| Windows NT 4.0 Embedded                                | Impala             | NT 4.0  |4.0.1381.204       |  09/08/1999  | Windows NT Embedded 4.0                                  |
 | Windows 98 FE                                          | Memphis           | 4.10    |4.10.1998          |  25/06/1998  | Windows 98 First Edition                                 |
 | Windows 98 SE                                          | Memphis           | 4.10    |4.10.2222A         |  10/06/1999  | Windows 98 Second Edition                                |
 | Windows ME                                             | Millennium        | 4.90    |4.90.3000          |  14/09/2000  | Windows Millennium Edition                               |

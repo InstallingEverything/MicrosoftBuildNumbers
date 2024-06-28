@@ -23,7 +23,6 @@
 | Windows NT 4.0 SP6                                     |Shell Update Release|NT 4.0   |4.0.1381.335       |  27/10/1999  | Windows NT 4.0 Server Service Pack 6                     |
 | Windows NT 4.0 SP6a                                    |Shell Update Release|NT 4.0   |4.0.1381.335a      |  22/11/1999  | Windows NT 4.0 Server Service Pack 6a                    |
 | Windows NT 4.0 Security Rollup                         |Shell Update Release|NT 4.0   |4.0.1381.7097      |  26/07/2001  | Windows NT 4.0 Server Security Rollup                    |
-| Windows NT 4.0 Embedded                                | Impala             | NT 4.0  |4.0.1381.204       |  09/08/1999  | Windows NT Embedded 4.0                                  |
 | Windows NT 4.0 Terminal Server Edition                 | Hydra              | NT 4.0  |4.0.419.1          |  16/06/1998  | Windows NT 4.0 Terminal Server Edition                   |
 | Windows NT 4.0 Terminal Server Edition SP4             | Hydra              | NT 4.0  |4.0.1381.32901     |  30/03/1999  | Windows NT 4.0 Terminal Server Edition Service Pack 4    |
 | Windows NT 4.0 Terminal Server Edition SP5             | Hydra              | NT 4.0  |4.0.1381.33030     |  08/10/1999  | Windows NT 4.0 Terminal Server Edition Service Pack 5    |
