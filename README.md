@@ -7,6 +7,8 @@
 
 # **Contents**
 
+# **Operating Systems**
+
 **Windows**
 
 - [Windows PC/Workstations](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Windows.md)
@@ -20,6 +22,10 @@
 - [Windows CE](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/WindowsCE.md)
 - [Windows Mobile](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/WindowsMobile.md)
 - [Windows Phone](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/WindowsPhone.md)
+
+**MS-DOS**
+
+- [MS-DOS](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/MSDOS.md)
 
 # **Applications**
 
@@ -35,8 +41,22 @@
 
 - [Internet Explorer](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/IE.md)
 
+# **Hardware**
+
+**Assorted Hardware**
+
+- [Assorted Hardware](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Hardware.md)
+
+**Surface**
+
+- [Surface](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Surface.md)
+
 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/InstallingEverything/MicrosoftBuildNumbers)
 ![GitHub last commit](https://img.shields.io/github/last-commit/InstallingEverything/MicrosoftBuildNumbers)
+
+
+
+
 
