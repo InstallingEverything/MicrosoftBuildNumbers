@@ -47,6 +47,7 @@
 | Windows Essential Business Server 2008                 |Centro              |NT 6.0   |5700.0.080902-1741 |  12/11/2008  | Windows Essential Business Server 2008                   |
 | Windows 2008 R2 Server                                 |Windows Server 7    |NT 6.1   |7600.16385         |  22/10/2009  | Windows 2008 R2, Web, Standard, Enterprise, Datacenter, Storage Server, Foundation                            |
 | Windows 2008 R2 Server Service Pack 1                  |Windows Server 7    |NT 6.1   |7601.17514         |  09/02/2011  | Windows 2008 R2 Service Pack 1                           |
+| Windows Storage Server 2008 R2 Essentials              |Breckenridge     |NT 6.1   |8800.16385.110302-1330|  31/03/2011  | Windows Storage Server 2008 R2 Essentials                |
 | Windows Home Server 2011                               |Vail                |NT 6.1   |8800.16385         |  06/04/2011  | Windows Home Server 2011                                 |
 | Windows Small Business Server 2011 Standard            |Colorado            |NT 6.1   |7900.101108-0845   |  13/12/2010  | Windows Small Business Server 2011 Standard              |
 | Windows Small Business Server 2011 Essentials          |Aurora              |NT 6.1   |8800.16385.110302-1330   |  28/06/2011  | Windows Small Business Server 2011 Essentials                |
