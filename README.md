@@ -31,15 +31,15 @@
 
 **Plus!**
 
-- [Plus!](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Plus.md)
+- [Plus!](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Applications/Plus.md)
 
 **Office**
 
-- [Office](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Office.md)
+- [Office](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Applications/Office.md)
 
 **Internet Explorer**
 
-- [Internet Explorer](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/IE.md)
+- [Internet Explorer](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Applications/IE.md)
 
 # **Hardware**
 
