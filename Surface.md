@@ -1,3 +1,4 @@
 | Name                                                   | Codename          | Version | Build Number      | Release Date | Release Name                                             |
 | :----------------------------------------------------- | :---------------: | :-----: | :---------------: | -----------: | :------------------------------------------------------- |
 | Surface Pro 9 (5G)                                     | Arcata            | 9       |                   |  12/10/2022  | Surface Pro 9 (5G)                                       |
+| Surface Pro 9 (Intel)                                  | BirchWay          | 9       |                   |  12/10/2022  | Surface Pro 9 (Intel)                                    |
