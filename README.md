@@ -11,17 +11,17 @@
 
 **Windows**
 
-- [Windows PC/Workstations](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Windows.md)
+- [Windows PC/Workstations](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Windows/Windows.md)
 
 **Windows Servers**
 
-- [Windows Servers](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/WindowsServers.md)
+- [Windows Servers](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Windows/WindowsServers.md)
 
 **Windows Mobile**
 
-- [Windows CE](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/WindowsCE.md)
-- [Windows Mobile](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/WindowsMobile.md)
-- [Windows Phone](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/WindowsPhone.md)
+- [Windows CE](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Windows/WindowsCE.md)
+- [Windows Mobile](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Windows/WindowsMobile.md)
+- [Windows Phone](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Windows/WindowsPhone.md)
 
 **MS-DOS**
 
