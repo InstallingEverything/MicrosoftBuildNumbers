@@ -57,7 +57,7 @@
 
 **Lumia**
 
-- [Nokia Lumia](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Lumia.md)
+- [Nokia Lumia](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Hardware/Lumia.md)
 - [Microsoft Lumia](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/MSLumia.md)
 
 
