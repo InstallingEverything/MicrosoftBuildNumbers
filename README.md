@@ -45,20 +45,20 @@
 
 **XBOX**
 
-- [XBOX](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/XBOX.md)
+- [XBOX](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Hardware/XBOX.md)
 
 **Assorted Hardware**
 
-- [Assorted Hardware](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Hardware.md)
+- [Assorted Hardware](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Hardware/Hardware.md)
 
 **Surface**
 
-- [Surface](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Surface.md)
+- [Surface](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Hardware/Surface.md)
 
 **Lumia**
 
 - [Nokia Lumia](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Hardware/Lumia.md)
-- [Microsoft Lumia](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/MSLumia.md)
+- [Microsoft Lumia](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Hardware/MSLumia.md)
 
 
 
