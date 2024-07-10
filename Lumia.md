@@ -12,3 +12,8 @@
 | Nokia Lumia 620                                        | Sand              | 600     |                   |  14/01/2013  | Nokia Lumia 620                                          |
 | Nokia Lumia 520                                        | Fame              | 500     |                   |  14/09/2013  | Nokia Lumia 520                                          |
 | Nokia Lumia 720                                        | Zeal              | 700     |                   |  29/04/2013  | Nokia Lumia 720                                          |
+| Nokia Lumia 928                                        | Laser             | 900     |                   |  16/05/2013  | Nokia Lumia 928                                          |
+| Nokia Lumia 925                                        | Catwalk           | 900     |                   |  17/06/2013  | Nokia Lumia 925                                          |
+| Nokia Lumia 1020                                       | EOS               | 1000    |                   |  26/07/2013  | Nokia Lumia 1020                                         |
+| Nokia Lumia 625                                        | MAX               | 600     |                   |  23/07/2013  | Nokia Lumia 625                                          |
+| Nokia Lumia 1320                                       | Batman            | 1300    |                   |  15/10/2013  | Nokia Lumia 1320                                         |
