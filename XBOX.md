@@ -7,8 +7,8 @@
 | Xbox One                                               | Durango           | ONE     |                   |  22/11/2013  | Xbox One                                                 |
 | Xbox One S                                             | Edmonton          | ONE S   |                   |  02/09/2016  | Xbox One S                                               |
 | Xbox One S All-Digital Edition                         |                   | ONE S   |                   |  07/05/2019  | Xbox One S All-Digital Edition                           |
-| Xbox One X                                             | Project Scorpio   | ONE X   |                   |  07/11/2017  | Xbox One X                                               |
-| Xbox Series S                                          | Lockhart/Edith    | Series S|                   |  10/11/2020  | Xbox Series S                                            |
+| Xbox One X                                             |Project Scorpio    | ONE X   |                   |  07/11/2017  | Xbox One X                                               |
+| Xbox Series S                                          |Lockhart/Edith     | Series S|                   |  10/11/2020  | Xbox Series S                                            |
 | Xbox Series X                                          |Anaconda/Starkville| Series X|                   |  10/11/2020  | Xbox Series X                                            |
 | Xbox Series S Refresh                                  |Ellewood           | Series S|                   |  2024        | Xbox Series S Refresh                                    |
 | Xbox Series X Refresh                                  |Brooklin           | Series X|                   |  2024        | Xbox Series X Refresh                                    |
