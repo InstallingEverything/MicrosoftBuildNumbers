@@ -14,6 +14,8 @@
 | MS-DOS 2.21  (Zenith OEM)                              |                   | 2.21    | 2.21              |              | Microsoft MS-DOS 2.21 (Zenith OEM)                       |
 | MS-DOS 2.25                                            |                   | 2.25    | 2.25              |              | Microsoft MS-DOS 2.25                                    |
 | MS-DOS 3.0                                             |                   | 3.0     | 3.0               |  ../08/1984  | Microsoft MS-DOS 3.0                                     |
+| MS-DOS 3.05  (RM Nimbus OEM)                           |                   | 3.05    | 3.05              |              | Microsoft MS-DOS 3.05 (RM Nimbus OEM)                    |
+| MS-DOS 3.06  (Apricot OEM)                             |                   | 3.06    | 3.06              |              | Microsoft MS-DOS 3.06 (Apricot OEM)                      |
 | MS-DOS 3.1 for Networks                                |                   | 3.1     | 3.1               |  ../08/1984  | Microsoft MS-DOS 3.1 for Networks                        |
 | MS-DOS 3.2                                             |                   | 3.2     | 3.2               |  ../04/1986  | Microsoft MS-DOS 3.2                                     |
 | MS-DOS 3.3                                             |                   | 3.3     | 3.3               |  ../04/1987  | Microsoft MS-DOS 3.3                                     |
