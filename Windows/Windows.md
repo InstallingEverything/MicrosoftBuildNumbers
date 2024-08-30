@@ -14,18 +14,18 @@
 | Windows 3.0a                                           |                   |   3.0a  |                   |  30/10/1990  | Windows 3.0a                                             |
 | Windows 3.0 with Multimedia Extensions 1.0             |                   |   3.0a  |                   |  20/10/1991  | Windows 3.0 with Multimedia Extensions 1.0               |
 | Windows 3.1                                            | Janus             |   3.1   |      103          |  06/04/1992  | Windows 3.1                                              |
-| Windows 3.1 WFW                                        | Sparta            |   3.10  |      102          |  31/10/1992  | Windows for Workgroups 3.1                               |
+| Windows 3.1 WFW                                        | Kato,Sparta       |   3.10  |      102          |  31/10/1992  | Windows for Workgroups 3.1                               |
 | Windows NT 3.1                                         | Razzle            |   3.10  |      528          |  27/07/1993  | Windows NT 3.1                                           |
 | Windows NT 3.1 SP3                                     | Razzle            |   3.10  |      528          |    /11/1994  | Windows NT 3.1, Service Pack 3                           | 
 | Windows 3.11                                           | Janus             |   3.11  |                   |  08/11/1993  | Windows 3.11                                             |
 | Windows 3.11 WFW                                       | Snowball          |   3.11  |      300          |  08/11/1993  | Windows for Workgroups 3.11                              |
 | Windows 3.2                                            | Cougar            |   3.2   |      153          |  22/11/1993  | Windows 3.2                                              |
 | Windows NT 3.5                                         | Daytona           | NT 3.5  |      807          |  21/09/1994  | Windows NT 3.5                                           |
-| Windows NT 3.51                                        | Daytona           | NT 3.51 |     1057          |  30/05/1995  | Windows NT 3.51                                          |
+| Windows NT 3.51                                        | Newshell          | NT 3.51 |     1057          |  30/05/1995  | Windows NT 3.51                                          |
 | Windows 95                                             | Chicago           | 4.00    |     4.00.950      |  24/08/1995  | Windows 95                                               |
 | Windows 95 SR1                                         | Chicago           | 4.00    |     4.00.950a     |  14/06/1996  | Windows 95 Service Release 1                             |
 | Windows 95 SR2                                         | Detroit           | 4.00    |4.00.1111 (950 B)  |  24/08/1996  | Windows 95 Service Release 2                             |
-| Windows 95 SR2.1                                       | Chicago           | 4.00    |4.03.1216 (950 C)  |  27/08/1996  | Windows 95 Service Release 2.1                           |
+| Windows 95 SR2.1                                       | Detroit           | 4.00    |4.03.1216 (950 C)  |  27/08/1996  | Windows 95 Service Release 2.1                           |
 | Windows 95 SR2.5                                       | Chicago           | 4.00    |4.03.1216 (950 C)  |  26/11/1997  | Windows 95 Service Release 2.5                           |
 | Windows NT 4.0                                         | Cairo             | NT 4.0  |4.0.1381.1         |  31/07/1996  | Windows NT 4.0 Workstation                               |
 | Windows NT 4.0 SP1                                     | Cairo             | NT 4.0  |4.0.1381.2         |  16/10/1996  | Windows NT 4.0 Workstation Service Pack 1                |
@@ -56,6 +56,11 @@
 | Windows XP Media Center Edition 2005 Update Rollup 2   | Emerald           | NT 5.1  |     2710          |  14/10/2005  | Windows XP Media Center Edition 2005 Update Rollup 2     |
 | Windows XP Tablet PC Edition                           | Lonestar          | NT 5.1  |     2600.1106     |  07/11/2002  | Windows XP Tablet PC Edition                             |
 | Windows XP Tablet PC Edition 2005                      | Vex               | NT 5.1  |     2600.2180     |  07/11/2002  | Windows XP Tablet PC Edition 2005                        |
+| Windows XP Embedded                                    | Mantis            | NT 5.1  |     2.0.0620.0    |  28/11/2001  | Windows XP Embedded                                      |
+| Windows XP Embedded SP1                                | Mantis            | NT 5.1  |     2.0.0807.0    |  22/10/2002  | Windows XP Embedded Service Pack 1                       |
+| Windows XP Embedded SP2                                | Mantis            | NT 5.1  |     2.0.0927.0    |  03/08/2003  | Windows XP Embedded Service Pack 2                       |
+| Windows XP Starter Edition                             | Creekside         | NT 5.1  |     2600.2901     |  11/08/2004  | Windows Starter Edition                                  |
+| Windows XP Starter Edition SP3                         | Creekside         | NT 5.1  |     2600.5512     |  21/04/2008  | Windows Starter Edition Service Pack 3                   |
 | Windows XP x64 Edition                                 | Anvil             | NT 5.2  |     3790          |  25/04/2005  | Windows XP Professional x64 Edition                      |
 | Windows Fundamentals for Legacy PCs                    | Eiger             | NT 5.1  |2600.5512          |  08/07/2006  | Windows Fundamentals for Legacy PCs                      |
 | Windows Fundamentals for Legacy PCs SP3                | Eiger             | NT 5.1  |2600.5512.080413-2111|  13/04/2008  | Windows Fundamentals for Legacy PCs SP3                  |
