@@ -42,8 +42,12 @@
 | Windows 2003 Small Business Server SP1                 |Bobcat              |NT 5.2   |5.2.2893.050429-1656|  19/05/2005  |Windows Small Business Server 2003 Service Pack 1         |
 | Windows Server 2003 R2                                 |Whistler Server     |NT 5.2   |5.2.3790.2075      |  06/12/2005  |Windows 2003, Web R2, Standard R2, Enterprise R2, Datacenter R2, Storage Server R2,                            |
 | Windows Home Server                                    |Quattro             |NT 5.2   |5.2.4500           |  04/11/2007  |Windows Home Server                                       |
+| Windows Home Server PP1                                |Update Release 1    |NT 5.2   |1800.080712-1300   |  21/07/2008  |Windows Home Server Power Pack 1                          |
+| Windows Home Server PP2                                |Snoqualmie          |NT 5.2   |2030.090310-2103   |  23/03/2009  |Windows Home Server Power Pack 2                          |
+| Windows Home Server PP3                                |                    |NT 5.2   |2423091007-1218    |  09/11/2009  |Windows Home Server Power Pack 3                          |
 | Windows 2008 Server                                    |Longhorn Server     |NT 6.0   |6001.18000         |  27/02/2008  | Windows 2008, Web, Standard, Enterprise, Datacenter, Storage Server, Foundation                            |
 | Windows Small Business Server 2008                     |Cougar              |NT 6.0   |5601.080812-1706   |  21/09/2008  | Windows Small Business Server 2008                       |
+| Windows Hyper-V Server 2008                            |Viridian            |NT 6.0   |6001.18000         |  27/02/2008  | Windows Hyper-V Server 2008                              |
 | Windows Essential Business Server 2008                 |Centro              |NT 6.0   |5700.0.080902-1741 |  12/11/2008  | Windows Essential Business Server 2008                   |
 | Windows 2008 R2 Server                                 |Windows Server 7    |NT 6.1   |7600.16385         |  22/10/2009  | Windows 2008 R2, Web, Standard, Enterprise, Datacenter, Storage Server, Foundation                            |
 | Windows 2008 R2 Server Service Pack 1                  |Windows Server 7    |NT 6.1   |7601.17514         |  09/02/2011  | Windows 2008 R2 Service Pack 1                           |
