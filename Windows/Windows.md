@@ -49,11 +49,12 @@
 | Windows XP                                             | Whistler          | NT 5.1  |     2600          |  25/10/2001  | Windows Starter/ Home/ Professional                      |
 | Windows XP SP1                                         | Trainyard         | NT 5.1  |2600.1106          |  09/09/2002  | Windows XP Service Pack 1                                |
 | Windows XP SP2                                         | Springboard       | NT 5.1  |2600.2180          |  25/09/2004  | Windows XP Service Pack 2                                |
-| Windows XP SP3                                         |                   | NT 5.1  |2600.5512          |  21/04/2008  | Windows XP Service Pack 3                                |
-| Windows XP Media Center Edition 2003                   | Freestyle         | NT 5.1  |     2600          |  29/10/2002  | Windows XP Media Center Edition                          |
-| Windows XP Media Center Edition 2004                   | Harmony           | NT 5.1  |     2600          |  30/09/2003  | Windows XP Media Center Edition 2004                     |
-| Windows XP Media Center Edition 2005                   | Symphony          | NT 5.1  |     2700          |  12/10/2004  | Windows XP Media Center Edition 2005                     |
-| Windows XP Media Center Edition 2005 Update Rollup 2   | Emerald           | NT 5.1  |     2710          |  14/10/2005  | Windows XP Media Center Edition 2005 Update Rollup 2     |
+| Windows XP SP3                                         |                   | NT 5.1  |2600.5512            |  21/04/2008  | Windows XP Service Pack 3                              |
+| Windows XP Media Center Edition 2003                   | Freestyle/eHome   | NT 5.1  |2600.1106.020828-1920|  29/10/2002  | Windows XP Media Center Edition 2003                   |
+| Windows XP Media Center Edition 2004                   | Harmony           | NT 5.1  |2600.1217.030729-0430|  30/09/2003  | Windows XP Media Center Edition 2004                   |
+| Windows XP Media Center Edition 2005                   | Symphony          | NT 5.1  |2700.2180.040810-0205|  12/10/2004  | Windows XP Media Center Edition 2005                   |
+| Windows XP Media Center Edition 2005 Update Rollup 1   |                   | NT 5.1  |2700.2230          |              | Windows XP Media Center Edition 2005 Update Rollup 1     |
+| Windows XP Media Center Edition 2005 Update Rollup 2   | Emerald           | NT 5.1  |2710.2732.050805-1239|  14/10/2005  | Windows XP Media Center Edition 2005 Update Rollup 2   |
 | Windows XP Tablet PC Edition                           | Lonestar          | NT 5.1  |     2600.1106     |  07/11/2002  | Windows XP Tablet PC Edition                             |
 | Windows XP Tablet PC Edition 2005                      | Vex               | NT 5.1  |     2600.2180     |  07/11/2002  | Windows XP Tablet PC Edition 2005                        |
 | Windows XP Embedded                                    | Mantis            | NT 5.1  |     2.0.0620.0    |  28/11/2001  | Windows XP Embedded                                      |
