@@ -55,7 +55,6 @@
 | Windows MultiPoint Server 2010                         |Solution Server     |NT 6.1   |1.0.537.0          |  24/02/2010  |Windows MultiPoint Server 2010                            |
 | Windows MultiPoint Server 2011                         |Windows MultiPoint Server "2"|NT 6.1   | 6.1.1600.0.110202-1550|  12/05/2011  |Windows MultiPoint Server 2011                            |
 | Windows Home Server 2011                               |Vail                |NT 6.1   |8800.16385         |  06/04/2011  | Windows Home Server 2011                                 |
-| Windows MultiPoint Server 2011                         |WMS 2               |NT 6.1   | 6.1.1600.0.110202-1550|  12/05/2011  | Windows MultiPoint Server 2011                           |
 | Windows Small Business Server 2011 Standard            |Colorado            |NT 6.1   |7900.101108-0845   |  13/12/2010  | Windows Small Business Server 2011 Standard              |
 | Windows Small Business Server 2011 Essentials          |Aurora              |NT 6.1   |8800.16385.110302-1330   |  28/06/2011  | Windows Small Business Server 2011 Essentials                |
 | Windows 2012                                           |Windows Server 8    |NT 6.2   |9200.16384         |  04/09/2012  | Windows 2012, Foundation, Essentials, Standard, Datacenter                            |
