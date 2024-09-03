@@ -29,17 +29,23 @@
 
 # **Applications**
 
-**Plus!**
+**Internet Explorer**
 
-- [Plus!](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Applications/Plus.md)
+- [Internet Explorer](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Applications/IE.md)
+
+**Media Player**
+
+- [Media Player](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Applications/MediaPlayer.md)
 
 **Office**
 
 - [Office](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Applications/Office.md)
 
-**Internet Explorer**
+**Plus!**
 
-- [Internet Explorer](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Applications/IE.md)
+- [Plus!](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Applications/Plus.md)
+
+
 
 # **Hardware**
 

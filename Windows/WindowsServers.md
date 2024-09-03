@@ -42,8 +42,12 @@
 | Windows 2003 Small Business Server SP1                 |Bobcat              |NT 5.2   |5.2.2893.050429-1656|  19/05/2005  |Windows Small Business Server 2003 Service Pack 1         |
 | Windows Server 2003 R2                                 |Whistler Server     |NT 5.2   |5.2.3790.2075      |  06/12/2005  |Windows 2003, Web R2, Standard R2, Enterprise R2, Datacenter R2, Storage Server R2,                            |
 | Windows Home Server                                    |Quattro             |NT 5.2   |5.2.4500           |  04/11/2007  |Windows Home Server                                       |
+| Windows Home Server PP1                                |Update Release 1    |NT 5.2   |1800.080712-1300   |  21/07/2008  |Windows Home Server Power Pack 1                          |
+| Windows Home Server PP2                                |Snoqualmie          |NT 5.2   |2030.090310-2103   |  23/03/2009  |Windows Home Server Power Pack 2                          |
+| Windows Home Server PP3                                |                    |NT 5.2   |2423091007-1218    |  09/11/2009  |Windows Home Server Power Pack 3                          |
 | Windows 2008 Server                                    |Longhorn Server     |NT 6.0   |6001.18000         |  27/02/2008  | Windows 2008, Web, Standard, Enterprise, Datacenter, Storage Server, Foundation                            |
 | Windows Small Business Server 2008                     |Cougar              |NT 6.0   |5601.080812-1706   |  21/09/2008  | Windows Small Business Server 2008                       |
+| Windows Hyper-V Server 2008                            |Viridian            |NT 6.0   |6001.18000         |  27/02/2008  | Windows Hyper-V Server 2008                              |
 | Windows Essential Business Server 2008                 |Centro              |NT 6.0   |5700.0.080902-1741 |  12/11/2008  | Windows Essential Business Server 2008                   |
 | Windows 2008 R2 Server                                 |Windows Server 7    |NT 6.1   |7600.16385         |  22/10/2009  | Windows 2008 R2, Web, Standard, Enterprise, Datacenter, Storage Server, Foundation                            |
 | Windows 2008 R2 Server Service Pack 1                  |Windows Server 7    |NT 6.1   |7601.17514         |  09/02/2011  | Windows 2008 R2 Service Pack 1                           |
@@ -51,8 +55,7 @@
 | Windows MultiPoint Server 2010                         |Solution Server     |NT 6.1   |1.0.537.0          |  24/02/2010  |Windows MultiPoint Server 2010                            |
 | Windows MultiPoint Server 2011                         |Windows MultiPoint Server "2"|NT 6.1   | 6.1.1600.0.110202-1550|  12/05/2011  |Windows MultiPoint Server 2011                            |
 | Windows Home Server 2011                               |Vail                |NT 6.1   |8800.16385         |  06/04/2011  | Windows Home Server 2011                                 |
+| Windows MultiPoint Server 2011                         |WMS 2               |NT 6.1   | 6.1.1600.0.110202-1550|  12/05/2011  | Windows MultiPoint Server 2011                           |
 | Windows Small Business Server 2011 Standard            |Colorado            |NT 6.1   |7900.101108-0845   |  13/12/2010  | Windows Small Business Server 2011 Standard              |
 | Windows Small Business Server 2011 Essentials          |Aurora              |NT 6.1   |8800.16385.110302-1330   |  28/06/2011  | Windows Small Business Server 2011 Essentials                |
 | Windows 2012                                           |Windows Server 8    |NT 6.2   |9200.16384         |  04/09/2012  | Windows 2012, Foundation, Essentials, Standard, Datacenter                            |
-| Windows 2012 Essentials                                |Windows Server 8    |NT 6.2   |9805.120907-1400   |  04/09/2012  | Windows 2012 Essentials                                  |
-| Windows MultiPoint Server 2012                         |Windows MultiPoint Server "3" |NT 6.2   |6.2.2506.0.121031-2300|  10/02/2013  | Windows MultiPoint Server 2012                                  |
