@@ -9,13 +9,13 @@
 
 # **Operating Systems**
 
+**MS-DOS**
+
+- [MS-DOS](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/MSDOS/MSDOS.md)
+
 **Windows**
 
 - [Windows PC/Workstations](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Windows/Windows.md)
-
-**Windows Servers**
-
-- [Windows Servers](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Windows/WindowsServers.md)
 
 **Windows Mobile**
 
@@ -23,9 +23,9 @@
 - [Windows Mobile](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Windows/WindowsMobile.md)
 - [Windows Phone](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Windows/WindowsPhone.md)
 
-**MS-DOS**
+**Windows Servers**
 
-- [MS-DOS](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/MSDOS.md)
+- [Windows Servers](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Windows/WindowsServers.md)
 
 # **Applications**
 
