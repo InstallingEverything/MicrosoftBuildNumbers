@@ -11,7 +11,8 @@
 <p align="center">
   <img src="https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/BANDONE.jpeg" />
 </p>
-
+Microsoft Band
 <p align="center">
   <img src="https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/BANDTWO.jpeg" />
 </p>
+Microsoft Band 2
