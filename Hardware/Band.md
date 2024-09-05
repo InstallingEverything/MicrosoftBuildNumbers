@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/MSBandLogo.png" />
+  <img src="https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/Band/MSBandLogo.png" />
 </p>
 
 
@@ -9,10 +9,10 @@
 | Microsoft Band 2                                       |                   |    2    |                   |  30/10/2015  | Microsoft Band 2                                         |
 
 
-![alt text](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/BANDONE.jpeg)
+![Band](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/Band/BANDONE.jpeg)
 
 Microsoft Band
 
-![alt text](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/BANDTWO.jpeg)
+![Band 2](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/Band/BANDTWO.jpeg)
 
 Microsoft Band 2
