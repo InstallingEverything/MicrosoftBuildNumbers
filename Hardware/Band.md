@@ -8,11 +8,11 @@
 | Microsoft Band                                         |                   |    1    |                   |  30/10/2014  | Microsoft Band                                           |
 | Microsoft Band 2                                       |                   |    2    |                   |  30/10/2015  | Microsoft Band 2                                         |
 
-<p align="center">
-  <img src="https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/BANDONE.jpeg" />
-</p>
+
+![alt text](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/BANDONE.jpeg)
+
 Microsoft Band
-<p align="center">
-  <img src="https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/BANDTWO.jpeg" />
-</p>
+
+![alt text](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/BANDTWO.jpeg)
+
 Microsoft Band 2
