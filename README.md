@@ -55,7 +55,7 @@
 
 **Band**
 
-- [Assorted Hardware](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Hardware/Band.md)
+- [Band](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Hardware/Band.md)
 
 **Lumia**
 
