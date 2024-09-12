@@ -2,7 +2,7 @@
 
 ![Microsoft](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Microsoft.png)
  
- A full List of Microsoft Products and build numbers
+ A full List of Microsoft Products and build and version numbers.
 
 
 # **Contents**
