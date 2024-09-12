@@ -23,10 +23,10 @@
 | Windows NT 4.0 SP6                                     |Shell Update Release|NT 4.0   |4.0.1381.335       |  27/10/1999  | Windows NT 4.0 Server Service Pack 6                     |
 | Windows NT 4.0 SP6a                                    |Shell Update Release|NT 4.0   |4.0.1381.335a      |  22/11/1999  | Windows NT 4.0 Server Service Pack 6a                    |
 | Windows NT 4.0 Security Rollup                         |Shell Update Release|NT 4.0   |4.0.1381.7097      |  26/07/2001  | Windows NT 4.0 Server Security Rollup                    |
-| Windows NT 4.0 Terminal Server Edition                 |Hydra              | NT 4.0  |4.0.419.1          |  16/06/1998  | Windows NT 4.0 Terminal Server Edition                   |
-| Windows NT 4.0 Terminal Server Edition SP4             | Hydra              | NT 4.0  |4.0.1381.32901     |  30/03/1999  | Windows NT 4.0 Terminal Server Edition Service Pack 4    |
-| Windows NT 4.0 Terminal Server Edition SP5             | Hydra              | NT 4.0  |4.0.1381.33030     |  08/10/1999  | Windows NT 4.0 Terminal Server Edition Service Pack 5    |
-| Windows NT 4.0 Terminal Server Edition SP6             | Hydra              | NT 4.0  |4.0.1381.33401     |  10/04/2000  | Windows NT 4.0 Terminal Server Edition Service Pack 6    |
+| Windows NT 4.0 Terminal Server Edition                 |Hydra               | NT 4.0  |4.0.419.1          |  16/06/1998  | Windows NT 4.0 Terminal Server Edition                   |
+| Windows NT 4.0 Terminal Server Edition SP4             |Hydra               | NT 4.0  |4.0.1381.32901     |  30/03/1999  | Windows NT 4.0 Terminal Server Edition Service Pack 4    |
+| Windows NT 4.0 Terminal Server Edition SP5             |Hydra               | NT 4.0  |4.0.1381.33030     |  08/10/1999  | Windows NT 4.0 Terminal Server Edition Service Pack 5    |
+| Windows NT 4.0 Terminal Server Edition SP6             |Hydra               | NT 4.0  |4.0.1381.33401     |  10/04/2000  | Windows NT 4.0 Terminal Server Edition Service Pack 6    |
 | Windows 2000                                           |Windows NT 5.0      |NT 5.0   |5.0.2195.1         |  17/02/2000  | Windows NT 5.0 Server, Advanced Server, Datacenter Server|
 | Windows 2000 Service Pack 1                            |Windows NT 5.0      |NT 5.0   |5.0.2195.1620      |  31/07/2000  | Windows 2000 Service Pack 1                              |
 | Windows 2000 Service Pack 2                            |Windows NT 5.0      |NT 5.0   |5.0.2195.2951      |  16/05/2001  | Windows 2000 Service Pack 2                              |
@@ -42,15 +42,19 @@
 | Windows 2003 Small Business Server SP1                 |Bobcat              |NT 5.2   |5.2.2893.050429-1656|  19/05/2005  |Windows Small Business Server 2003 Service Pack 1         |
 | Windows Server 2003 R2                                 |Whistler Server     |NT 5.2   |5.2.3790.2075      |  06/12/2005  |Windows 2003, Web R2, Standard R2, Enterprise R2, Datacenter R2, Storage Server R2,                            |
 | Windows Home Server                                    |Quattro             |NT 5.2   |5.2.4500           |  04/11/2007  |Windows Home Server                                       |
+| Windows Home Server PP1                                |Update Release 1    |NT 5.2   |1800.080712-1300   |  21/07/2008  |Windows Home Server Power Pack 1                          |
+| Windows Home Server PP2                                |Snoqualmie          |NT 5.2   |2030.090310-2103   |  23/03/2009  |Windows Home Server Power Pack 2                          |
+| Windows Home Server PP3                                |                    |NT 5.2   |2423091007-1218    |  09/11/2009  |Windows Home Server Power Pack 3                          |
 | Windows 2008 Server                                    |Longhorn Server     |NT 6.0   |6001.18000         |  27/02/2008  | Windows 2008, Web, Standard, Enterprise, Datacenter, Storage Server, Foundation                            |
 | Windows Small Business Server 2008                     |Cougar              |NT 6.0   |5601.080812-1706   |  21/09/2008  | Windows Small Business Server 2008                       |
+| Windows Hyper-V Server 2008                            |Viridian            |NT 6.0   |6001.18000         |  27/02/2008  | Windows Hyper-V Server 2008                              |
 | Windows Essential Business Server 2008                 |Centro              |NT 6.0   |5700.0.080902-1741 |  12/11/2008  | Windows Essential Business Server 2008                   |
 | Windows 2008 R2 Server                                 |Windows Server 7    |NT 6.1   |7600.16385         |  22/10/2009  | Windows 2008 R2, Web, Standard, Enterprise, Datacenter, Storage Server, Foundation                            |
 | Windows 2008 R2 Server Service Pack 1                  |Windows Server 7    |NT 6.1   |7601.17514         |  09/02/2011  | Windows 2008 R2 Service Pack 1                           |
-| Windows Storage Server 2008 R2 Essentials              |Breckenridge     |NT 6.1   |8800.16385.110302-1330|  31/03/2011  | Windows Storage Server 2008 R2 Essentials                |
+| Windows Storage Server 2008 R2 Essentials              |Breckenridge        |NT 6.1   |8800.16385.110302-1330|  31/03/2011  | Windows Storage Server 2008 R2 Essentials             |
+| Windows MultiPoint Server 2010                         |Solution Server     |NT 6.1   |1.0.537.0          |  24/02/2010  |Windows MultiPoint Server 2010                            |
+| Windows MultiPoint Server 2011                         |Windows MultiPoint Server "2"|NT 6.1   | 6.1.1600.0.110202-1550|  12/05/2011  |Windows MultiPoint Server 2011                            |
 | Windows Home Server 2011                               |Vail                |NT 6.1   |8800.16385         |  06/04/2011  | Windows Home Server 2011                                 |
-| Windows MultiPoint Server 2011                         |WMS 2               |NT 6.1   | 6.1.1600.0.110202-1550|  12/05/2011  | Windows MultiPoint Server 2011                           |
 | Windows Small Business Server 2011 Standard            |Colorado            |NT 6.1   |7900.101108-0845   |  13/12/2010  | Windows Small Business Server 2011 Standard              |
 | Windows Small Business Server 2011 Essentials          |Aurora              |NT 6.1   |8800.16385.110302-1330   |  28/06/2011  | Windows Small Business Server 2011 Essentials                |
 | Windows 2012                                           |Windows Server 8    |NT 6.2   |9200.16384         |  04/09/2012  | Windows 2012, Foundation, Essentials, Standard, Datacenter                            |
-| Windows MultiPoint Server 2012                         |WMS 3               |NT 6.2   | 6.2.2506.0.121031-2300|  10/02/2013  | Windows MultiPoint Server 2012                           |
