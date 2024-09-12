@@ -1,7 +1,9 @@
+<p align="center">
+  <img src="https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Microsoft.png" />
+</p>
+
 # **Microsoft Build Numbers**
 
-![Microsoft](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Microsoft.png)
- 
  A full List of Microsoft Products and build and version numbers.
 
 
