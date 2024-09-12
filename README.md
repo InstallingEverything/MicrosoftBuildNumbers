@@ -75,6 +75,7 @@
 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/InstallingEverything/MicrosoftBuildNumbers)
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/InstallingEverything/MicrosoftBuildNumbers)
 
 
