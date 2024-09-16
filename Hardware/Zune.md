@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/Zune/Zune.png" />
+  <img src="https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/Zune/ZuneLogo.png" />
 </p>
 
 
