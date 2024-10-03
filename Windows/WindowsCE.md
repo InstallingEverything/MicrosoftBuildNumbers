@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/Windows/WindowsCE.png" />
+  <img src="https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/Windows/WindowsCE.jpeg" />
 </p>
 
 | Name                                                   | Codename          | Version | Build Number      | Release Date | Release Name                                             |
