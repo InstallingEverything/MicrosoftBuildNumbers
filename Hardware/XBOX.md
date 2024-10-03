@@ -25,3 +25,24 @@
 | The Duke Controller                                    |Duke               |         |                   |  15/11/2001  | The Duke Controller                                      |
 | Xbox Controller S                                      |Akebono            |         |                   |  14/03/2002  | Xbox Controller S                                        |
 | Xbox Kinect                                            |Natal              | V1      |                   |  10/11/2010  | Xbox Kinect                                              |
+
+
+![Xbox](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/Xbox/XboxOG.jpeg)
+
+Microsoft Xbox
+
+![Xbox 360](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/Xbox/Xbox360OG.jpeg)
+
+Microsoft Xbox 360
+
+![Xbox ONE](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/Xbox/XboxONE.jpeg)
+
+Microsoft Xbox ONE
+
+![Xbox Series S](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/Xbox/XboxSeriesS.jpeg)
+
+Microsoft Xbox Series S
+
+![Xbox Series X](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/Xbox/XboxSeriesX.jpeg)
+
+Microsoft Xbox Series X

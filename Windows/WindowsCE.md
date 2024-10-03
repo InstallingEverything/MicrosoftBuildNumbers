@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/Windows/WindowsCE.jpeg" />
+</p>
+
 | Name                                                   | Codename          | Version | Build Number      | Release Date | Release Name                                             |
 | :----------------------------------------------------- | :---------------: | :-----: | :---------------: | -----------: | :------------------------------------------------------- |
 | Windows CE 1.0                                         | Pegasus, Alder    |   1.0   | 1.0.113           |  16/11/1996  |Windows CE 1.0                                            |
