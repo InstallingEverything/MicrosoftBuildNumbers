@@ -33,7 +33,8 @@
 
 # **Office for Mac**
 
-
+| Name                                                   | Codename          | Version | Build Number      | Release Date | Release Name                                             |
+| :----------------------------------------------------- | :---------------: | :-----: | :---------------: | -----------: | :------------------------------------------------------- |
 | Microsoft Office 3.0                                   |                   |  6.0    |                   |  ../../1992  |  Microsoft Office for Mac                                |
 | Microsoft Office 4.2                                   |                   |  7.0    |                   |  ../../1993  |  Microsoft Office 4.3 for Mac                            |
 | Microsoft Office 98 Macintosh Edition                  |                   |  8.0    |                   |  ../04/1998  |  Microsoft Office 98 Macintosh Edition                   |
