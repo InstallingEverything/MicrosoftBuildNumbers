@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/MediaPlayer/Logo.png" />
+</p>
+
+
 | Name                                                   | Codename          | Version | Build Number      | Release Date | Release Name                                             |
 | :----------------------------------------------------- | :---------------: | :-----: | :---------------: | -----------: | :------------------------------------------------------- |
 | Windows Media Player 5.2                               |                   |  5.2    |5.1.52.701         |  ../07/1998  | Windows Media Player 5.2                                 |
