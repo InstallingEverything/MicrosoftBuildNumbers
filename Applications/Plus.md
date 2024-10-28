@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/MicrosoftPlus/Logo.png" />
+  <img src="https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/Plus/Logo.png" />
 </p>
 
 | Name                                                   | Codename          | Version | Build Number      | Release Date | Release Name                                             |
