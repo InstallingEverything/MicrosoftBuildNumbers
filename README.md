@@ -42,6 +42,7 @@
 **Office**
 
 - [Office](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Applications/Office.md)
+- [Office Software](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Applications/OfficeSoftware.md)
 
 **Plus!**
 
