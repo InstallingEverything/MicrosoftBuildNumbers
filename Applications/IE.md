@@ -1,4 +1,6 @@
-# **Microsoft Internet Explorer Build Numbers**
+<p align="center">
+  <img src="https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/InternetExplorer/Logo.png" />
+</p>
 
 | Name                                                   | Codename          | Version | Build Number      | Release Date | Release Name                                             |
 | :----------------------------------------------------- | :---------------: | :-----: | :---------------: | -----------: | :------------------------------------------------------- |
