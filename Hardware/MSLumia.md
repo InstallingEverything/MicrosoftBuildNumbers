@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/Lumia/Logo.png" />
+</p>
+
 | Name                                                   | Codename          | Version | Build Number      | Release Date | Release Name                                             |
 | :----------------------------------------------------- | :---------------: | :-----: | :---------------: | -----------: | :------------------------------------------------------- |
 | Microsoft Lumia 535                                    | Chakra            | 500     |                   |  26/11/2014  | Microsoft Lumia 535                                      |
