@@ -8,3 +8,5 @@
 | Windows XP Embedded                                    | Mantis            | NT 5.1  |     2.0.0620.0    |  28/11/2001  | Windows XP Embedded                                      |
 | Windows XP Embedded SP1                                | Mantis            | NT 5.1  |     2.0.0807.0    |  22/10/2002  | Windows XP Embedded Service Pack 1                       |
 | Windows XP Embedded SP2                                | Mantis            | NT 5.1  |     2.0.0927.0    |  03/08/2003  | Windows XP Embedded Service Pack 2                       |
+| Windows Fundamentals for Legacy PCs                    | Eiger             | NT 5.1  |2600.5512          |  08/07/2006  | Windows Fundamentals for Legacy PCs                      |
+| Windows Fundamentals for Legacy PCs SP3                | Eiger             | NT 5.1  |2600.5512.080413-2111|  13/04/2008  | Windows Fundamentals for Legacy PCs SP3                |
