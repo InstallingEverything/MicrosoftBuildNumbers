@@ -63,7 +63,7 @@
 | Windows Small Business Server 2011 Standard            |Colorado            |NT 6.1   |7900.101108-0845   |  13/12/2010  | Windows Small Business Server 2011 Standard              |
 | Windows Small Business Server 2011 Essentials          |Aurora              |NT 6.1   |8800.16385.110302-1330   |  28/06/2011  | Windows Small Business Server 2011 Essentials                |
 | Windows Server 2012                                    |Windows Server 8    |NT 6.2   |9200.16384         |  04/09/2012  | Windows Server 2012, Foundation, Essentials, Standard, Datacenter                            |
-| Windows Server 2012                                    |Server Blue         |NT 6.2   |9600.16384         |  18/10/2013  | Windows 2012, Foundation, Essentials, Standard, Datacenter                            |
+| Windows Server 2012 R2                                 |Server Blue         |NT 6.2   |9600.16384         |  18/10/2013  | Windows Server 2012 R2, Foundation, Essentials, Standard, Datacenter                            |
 | Windows Server 2016                                    |                    |         |9600.16384         |  12/10/2016  | Windows Server 2016                                      |
 | Windows Server 2019                                    |Redstone 5          |         |17763.1.280924     |  02/10/2018  | Windows Server 2019                                      |
 | Windows Server 2022                                    |                    |21H2     |20348.169.210805   |  18/09/2021  | Windows Server 2022                                      |
