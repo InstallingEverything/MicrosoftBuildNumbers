@@ -14,3 +14,5 @@
 | Windows Embedded for Point of Service 1.1              | Mantis            | NT 5.1  |1.0.0426.01        |  13/04/2008  | Windows Embedded for Point of Service 1.1                |
 | Windows Embedded POSReady 2009                         |                   | NT 5.1  |2.0.282.0          |  09/12/2008  | Windows Embedded POSReady 2009                           |
 | Windows Embedded Standard 2009                         |XP-Embedded        | NT 5.1  | 2.0.1500.0        |  16/10/2008  | Windows Embedded Standard 2009                           |
+| Windows Embedded POSReady 7                            |                   | NT 6.1  | 1.1.0242.0.110426-1500|  10/09/2011  | Windows Embedded POSReady 7                          |
+| Windows Embedded Standard 7                            |Windows Embedded Quebec| NT 5.1  | 1.0.0299.0.100401-1730|  29/07/2010  | Windows Embedded Standard 7                          |
