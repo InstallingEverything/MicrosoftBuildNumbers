@@ -62,8 +62,6 @@
 | Windows XP Starter Edition                             | Creekside         | NT 5.1  |     2600.2901     |  11/08/2004  | Windows Starter Edition                                  |
 | Windows XP Starter Edition SP3                         | Creekside         | NT 5.1  |     2600.5512     |  21/04/2008  | Windows Starter Edition Service Pack 3                   |
 | Windows XP x64 Edition                                 | Anvil             | NT 5.2  |     3790          |  25/04/2005  | Windows XP Professional x64 Edition                      |
-| Windows Fundamentals for Legacy PCs                    | Eiger             | NT 5.1  |2600.5512          |  08/07/2006  | Windows Fundamentals for Legacy PCs                      |
-| Windows Fundamentals for Legacy PCs SP3                | Eiger             | NT 5.1  |2600.5512.080413-2111|  13/04/2008  | Windows Fundamentals for Legacy PCs SP3                  |
 | Windows Vista                                          | Longhorn          | NT 6.0  |     6002.16386    |  30/01/2007  | Windows Vista, Starter, Home Basic, Home Premium, Business, Enterprise, Ultimate                      |
 | Windows Vista, Media Center Addon                      | Diamond           | NT 6.0  |     6002.16386    |              | Windows Vista With Media Center                          |
 | Windows Vista SP1                                      | Longhorn          | NT 6.0  |     6002.18000    |  18/02/2008  | Windows Vista Service Pack 1                             |
