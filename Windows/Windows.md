@@ -94,4 +94,5 @@
 | Windows 11 (21H2)                                      | Sun Valley        |   21H2  | 22000.194         |  05/10/2021  | Windows 11 (21H2)                                        |
 | Windows 11 (22H2)                                      | Sun Valley 2      |   22H2  | 22621.382         |  20/09/2022  | Windows 11 (22H2)                                        |
 | Windows 11 (23H2)                                      | Sun Valley 2      |   23H2  | 22631.2715        |  14/11/2023  | Windows 11 (23H2)                                        |
+| Windows 11 (24H2)                                      |                   |   24H2  | 26100.1617        |  01/10/2024  | Windows 11 (24H2)                                        |
 
