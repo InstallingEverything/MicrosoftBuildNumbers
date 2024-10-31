@@ -11,4 +11,6 @@
 | Windows Fundamentals for Legacy PCs                    | Eiger             | NT 5.1  |2600.5512          |  08/07/2006  | Windows Fundamentals for Legacy PCs                      |
 | Windows Fundamentals for Legacy PCs SP3                | Eiger             | NT 5.1  |2600.5512.080413-2111|  13/04/2008  | Windows Fundamentals for Legacy PCs SP3                |
 | Windows Embedded for Point of Service 1.0              | Mantis            | NT 5.1  |1.0.0387.0         |  24/03/2005  |Windows Embedded for Point of Service 1.0                 |
-| Windows Embedded for Point of Service 1.1              | Mantis            | NT 5.1  |1.0.0426.01        |  13/04/2008  | Windows Embedded for Point of Service 1.1              |
+| Windows Embedded for Point of Service 1.1              | Mantis            | NT 5.1  |1.0.0426.01        |  13/04/2008  | Windows Embedded for Point of Service 1.1                |
+| Windows Embedded POSReady 2009                         |                   | NT 5.1  |2.0.282.0          |  09/12/2008  | Windows Embedded POSReady 2009                           |
+| Windows Embedded Standard 2009                         |XP-Embedded        | NT 5.1  | 2.0.1500.0        |  16/10/2008  | Windows Embedded Standard 2009                           |
