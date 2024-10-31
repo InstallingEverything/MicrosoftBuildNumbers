@@ -10,3 +10,5 @@
 | Windows XP Embedded SP2                                | Mantis            | NT 5.1  |     2.0.0927.0    |  03/08/2003  | Windows XP Embedded Service Pack 2                       |
 | Windows Fundamentals for Legacy PCs                    | Eiger             | NT 5.1  |2600.5512          |  08/07/2006  | Windows Fundamentals for Legacy PCs                      |
 | Windows Fundamentals for Legacy PCs SP3                | Eiger             | NT 5.1  |2600.5512.080413-2111|  13/04/2008  | Windows Fundamentals for Legacy PCs SP3                |
+| Windows Embedded for Point of Service 1.0              |                   | NT 5.1  |1.0.0387.0         |  24/03/2005  |Windows Embedded for Point of Service 1.0                 |
+| Windows Embedded for Point of Service 1.1              |                   | NT 5.1  |1.0.0426.01        |  13/04/2008  | Windows Embedded for Point of Service 1.1              |
