@@ -19,6 +19,10 @@
 
 - [Windows PC/Workstations](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Windows/Windows.md)
 
+**Windows Embedded**
+
+- [Windows Embedded](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Windows/Embedded.md)
+
 **Windows Mobile**
 
 - [Windows CE](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Windows/WindowsCE.md)
@@ -42,6 +46,7 @@
 **Office**
 
 - [Office](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Applications/Office.md)
+- [Office Software](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Applications/OfficeSoftware.md)
 
 **Plus!**
 

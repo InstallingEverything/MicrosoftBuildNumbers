@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/MediaPlayer/Logo.png" />
+</p>
+
+
 | Name                                                   | Codename          | Version | Build Number      | Release Date | Release Name                                             |
 | :----------------------------------------------------- | :---------------: | :-----: | :---------------: | -----------: | :------------------------------------------------------- |
 | Windows Media Player 5.2                               |                   |  5.2    |5.1.52.701         |  ../07/1998  | Windows Media Player 5.2                                 |
@@ -15,7 +20,7 @@
 | Windows Media Player for Windows XP (version 8)        |                   |  8.0    |8.00.00.4477       |  24/08/2001  | Windows Media Player for Windows XP (version 8)          |
 | Windows Media Player 9 Series For XP,98,ME,2000        | Corona            |   9.00  |9.00.00.2980       |  01/07/2003  | Windows Media Player 9 Series For XP,98,ME,2000          |
 | Windows Media Player 9 Series For Windows Server 2003  | Corona            |   9.00  |9.00.00.2991       |  01/07/2003  | Windows Media Player 9 Series For Windows Server 2003    |
-| Windows Media Player 10                                |                   |  10.00  |10.00.00.3646      |  25/08/2004  | Windows Media Player 10                                  |
+| Windows Media Player 10                                | Crescent          |  10.00  |10.00.00.3646      |  25/08/2004  | Windows Media Player 10                                  |
 | Windows Media Player 11 For Windows XP                 | Polaris           |  11.00  |11.0.5721.5230     |  18/10/2006  | Windows Media Player 11 For Windows XP                   |
 | Windows Media Player 11 For Windows Vista              | Aurora            |  11.00  |11.0.6000.6344     |  18/10/2006  | Windows Media Player 11 For Windows Vista                |
 | Windows Media Player 12 For Windows 7                  |                   |  12.00  |12.0.7601.1754     |  25/08/2004  | Windows Media Player 12 For Windows 7                    |

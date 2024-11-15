@@ -39,7 +39,6 @@
 | Windows NT 4.0 SP6                                     | Cairo             | NT 4.0  |4.0.1381.335       |  27/10/1999  | Windows NT 4.0 Workstation Service Pack 6                |
 | Windows NT 4.0 SP6a                                    | Cairo             | NT 4.0  |4.0.1381.335a      |  22/11/1999  | Windows NT 4.0 Workstation Service Pack 6a               |
 | Windows NT 4.0 Security Rollup                         | Cairo             | NT 4.0  |4.0.1381.7097      |  26/07/2001  | Windows NT 4.0 Workstation Security Rollup (Q299444)     |
-| Windows NT 4.0 Embedded                                | Impala            | NT 4.0  |4.0.1381.204       |  09/08/1999  | Windows NT Embedded 4.0                                  |
 | Windows 98 FE                                          | Memphis           | 4.10    |4.10.1998          |  25/06/1998  | Windows 98 First Edition                                 |
 | Windows 98 SE                                          | Memphis           | 4.10    |4.10.2222A         |  10/06/1999  | Windows 98 Second Edition                                |
 | Windows ME                                             | Millennium        | 4.90    |4.90.3000          |  14/09/2000  | Windows Millennium Edition                               |
@@ -60,14 +59,9 @@
 | Windows XP Media Center Edition 2005 Update Rollup 2   | Emerald           | NT 5.1  |2710.2732.050805-1239|  14/10/2005  | Windows XP Media Center Edition 2005 Update Rollup 2   |
 | Windows XP Tablet PC Edition                           | Lonestar          | NT 5.1  |     2600.1106     |  07/11/2002  | Windows XP Tablet PC Edition                             |
 | Windows XP Tablet PC Edition 2005                      | Vex               | NT 5.1  |     2600.2180     |  07/11/2002  | Windows XP Tablet PC Edition 2005                        |
-| Windows XP Embedded                                    | Mantis            | NT 5.1  |     2.0.0620.0    |  28/11/2001  | Windows XP Embedded                                      |
-| Windows XP Embedded SP1                                | Mantis            | NT 5.1  |     2.0.0807.0    |  22/10/2002  | Windows XP Embedded Service Pack 1                       |
-| Windows XP Embedded SP2                                | Mantis            | NT 5.1  |     2.0.0927.0    |  03/08/2003  | Windows XP Embedded Service Pack 2                       |
 | Windows XP Starter Edition                             | Creekside         | NT 5.1  |     2600.2901     |  11/08/2004  | Windows Starter Edition                                  |
 | Windows XP Starter Edition SP3                         | Creekside         | NT 5.1  |     2600.5512     |  21/04/2008  | Windows Starter Edition Service Pack 3                   |
 | Windows XP x64 Edition                                 | Anvil             | NT 5.2  |     3790          |  25/04/2005  | Windows XP Professional x64 Edition                      |
-| Windows Fundamentals for Legacy PCs                    | Eiger             | NT 5.1  |2600.5512          |  08/07/2006  | Windows Fundamentals for Legacy PCs                      |
-| Windows Fundamentals for Legacy PCs SP3                | Eiger             | NT 5.1  |2600.5512.080413-2111|  13/04/2008  | Windows Fundamentals for Legacy PCs SP3                  |
 | Windows Vista                                          | Longhorn          | NT 6.0  |     6002.16386    |  30/01/2007  | Windows Vista, Starter, Home Basic, Home Premium, Business, Enterprise, Ultimate                      |
 | Windows Vista, Media Center Addon                      | Diamond           | NT 6.0  |     6002.16386    |              | Windows Vista With Media Center                          |
 | Windows Vista SP1                                      | Longhorn          | NT 6.0  |     6002.18000    |  18/02/2008  | Windows Vista Service Pack 1                             |
@@ -94,4 +88,5 @@
 | Windows 11 (21H2)                                      | Sun Valley        |   21H2  | 22000.194         |  05/10/2021  | Windows 11 (21H2)                                        |
 | Windows 11 (22H2)                                      | Sun Valley 2      |   22H2  | 22621.382         |  20/09/2022  | Windows 11 (22H2)                                        |
 | Windows 11 (23H2)                                      | Sun Valley 2      |   23H2  | 22631.2715        |  14/11/2023  | Windows 11 (23H2)                                        |
+| Windows 11 (24H2)                                      |                   |   24H2  | 26100.1617        |  01/10/2024  | Windows 11 (24H2)                                        |
 

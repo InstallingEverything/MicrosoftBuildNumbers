@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/Plus/Logo.png" />
+</p>
+
 | Name                                                   | Codename          | Version | Build Number      | Release Date | Release Name                                             |
 | :----------------------------------------------------- | :---------------: | :-----: | :---------------: | -----------: | :------------------------------------------------------- |
 | Microsoft Plus! for Windows 95                         | Frosting          | 4.40    | 4.40.310          |  24/08/1995  | Microsoft Plus! for Windows 95                           |
