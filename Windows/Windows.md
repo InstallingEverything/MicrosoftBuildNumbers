@@ -9,7 +9,7 @@
 | Windows 1.02                                           | Interface Manager |   1.02  |                   |  14/05/1986  | Windows 1.02                                             |
 | Windows 1.03                                           | Interface Manager |   1.03  |                   |  21/08/1986  | Windows 1.03                                             |
 | Windows 1.04                                           | Interface Manager |   1.04  |                   |  10/04/1987  | Windows 1.04                                             |
-| Windows 2.01                                           |                   |   2.01  |                   |  09/12/1987  | Windows 2.01                                             |
+| Windows 2.01                                           | Windows 1.5       |   2.01  |                   |  09/12/1987  | Windows 2.01                                             |
 | Windows 2.03                                           |                   |   2.03  |                   |  09/12/1987  | Windows 2.03                                             |
 | Windows 2.1                                            |                   |   2.1   |                   |  27/05/1988  | Windows 2.1                                              |
 | Windows 2.11                                           |                   |   2.11  |                   |  13/03/1989  | Windows 2.11                                             |
