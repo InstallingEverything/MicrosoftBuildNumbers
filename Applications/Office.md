@@ -20,23 +20,23 @@ This page provides a comprehensive list of Microsoft Office for Windows versions
 | Microsoft Office 97       |          | 97      | N/A               | 19/11/1996   | Microsoft Office 97        |
 | Microsoft Office 2000     |          | 2000    | N/A               | 07/06/1999   | Microsoft Office 2000      |
 | Microsoft Office XP       |          | XP      | N/A               | 31/05/2001   | Microsoft Office XP        |
-| Microsoft Office 2003     |          | 2003    | 11.0.5614.0       |              | Microsoft Office 2003      |
-| Microsoft Office 2003 SP1 |          | 2003    | 11.0.6361.0       |              | Microsoft Office 2003 SP1  |
-| Microsoft Office 2003 SP2 |          | 2003    | 11.0.7969.0       |              | Microsoft Office 2003 SP2  |
-| Microsoft Office 2003 SP3 |          | 2003    | 11.0.8173.0       |              | Microsoft Office 2003 SP3  |
-| Microsoft Office 2007     |          | 2007    | 12.0.4518.1014    | 10/10/2007   | Microsoft Office 2007      |
-| Microsoft Office 2007 SP1 |          | 2007    | 12.0.6213.1000    |              | Microsoft Office 2007 SP1  |
-| Microsoft Office 2007 SP2 |          | 2007    | 12.0.6425.1000    |              | Microsoft Office 2007 SP2  |
-| Microsoft Office 2007 SP3 |          | 2007    | 12.0.6607.1000    |              | Microsoft Office 2007 SP3  |
+| Microsoft Office 2003     |          | 2003    | 11.0.5614.0       | 21/10/2003   | Microsoft Office 2003      |
+| Microsoft Office 2003 SP1 |          | 2003    | 11.0.6361.0       | 27/09/2004   | Microsoft Office 2003 SP1  |
+| Microsoft Office 2003 SP2 |          | 2003    | 11.0.7969.0       | 27/09/2005   | Microsoft Office 2003 SP2  |
+| Microsoft Office 2003 SP3 |          | 2003    | 11.0.8173.0       | 17/09/2007   | Microsoft Office 2003 SP3  |
+| Microsoft Office 2007     |          | 2007    | 12.0.4518.1014    | 30/01/2007   | Microsoft Office 2007      |
+| Microsoft Office 2007 SP1 |          | 2007    | 12.0.6213.1000    | 11/12/2007   | Microsoft Office 2007 SP1  |
+| Microsoft Office 2007 SP2 |          | 2007    | 12.0.6425.1000    | 28/04/2009   | Microsoft Office 2007 SP2  |
+| Microsoft Office 2007 SP3 |          | 2007    | 12.0.6607.1000    | 25/10/2011   | Microsoft Office 2007 SP3  |
 | Microsoft Office 2010     |          | 2010    | 14.0.4760.1000    | 15/06/2010   | Microsoft Office 2010      |
-| Microsoft Office 2010 SP1 |          | 2010    | 14.0.6023.1000    |              | Microsoft Office 2010 SP1  |
-| Microsoft Office 2010 SP2 |          | 2010    | 14.0.7015.1000    |              | Microsoft Office 2010 SP2  |
+| Microsoft Office 2010 SP1 |          | 2010    | 14.0.6023.1000    | 28/06/2011   | Microsoft Office 2010 SP1  |
+| Microsoft Office 2010 SP2 |          | 2010    | 14.0.7015.1000    | 16/07/2013   | Microsoft Office 2010 SP2  |
 | Microsoft Office 2013     |          | 2013    | 15.0.4420.1017    | 29/01/2013   | Microsoft Office 2013      |
-| Microsoft Office 2013 SP1 |          | 2013    | 15.0.4569.1506    |              | Microsoft Office 2013 SP1  |
+| Microsoft Office 2013 SP1 |          | 2013    | 15.0.4569.1506    | 31/10/2013   | Microsoft Office 2013 SP1  |
 | Microsoft Office 2016     |          | 2016    | 16.0.4229.1024    | 22/09/2015   | Microsoft Office 2016      |
-| Microsoft Office 2019     |          | 2019    | 16.0.4229.1024    | 24/09/2018   | Microsoft Office 2019      |
-| Microsoft Office 2021     |          | 2021    | 16.0.4229.1024    | 05/10/2021   | Microsoft Office 2021      |
-| Microsoft Office 2024     |          | 2024    | 16.0.4229.1024    | 16/09/2024   | Microsoft Office 2024      |
+| Microsoft Office 2019     |          | 2019    | 16.0.10325.20002  | 24/09/2018   | Microsoft Office 2019      |
+| Microsoft Office 2021     |          | 2021    | 16.0.14326.20404  | 05/10/2021   | Microsoft Office 2021      |
+| Microsoft Office 2024     |          | 2024    | 16.0.17231.20290  | 16/09/2024   | Microsoft Office 2024      |
 
 ## Microsoft Office for Mac Build Numbers
 
