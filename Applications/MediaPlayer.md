@@ -26,8 +26,8 @@ This page provides a comprehensive list of Windows Media Player versions, includ
 | Windows Media Player 10                           | Crescent | 10.00   | 10.00.00.3646     | 25/08/2004   | Windows Media Player 10                             |
 | Windows Media Player 11 For Windows XP            | Polaris  | 11.00   | 11.0.5721.5230    | 18/10/2006   | Windows Media Player 11 For Windows XP              |
 | Windows Media Player 11 For Windows Vista         | Aurora   | 11.00   | 11.0.6000.6344    | 18/10/2006   | Windows Media Player 11 For Windows Vista           |
-| Windows Media Player 12 For Windows 7             |          | 12.00   | 12.0.7601.1754    | 25/08/2004   | Windows Media Player 12 For Windows 7               |
-| Windows Media Player 12 For Windows 8 and 8.1     |          | 12.00   | 12.0.9600.17031   | 25/08/2004   | Windows Media Player 12 For Windows 8 and 8.1       |
+| Windows Media Player 12 For Windows 7             | Zinc     | 12.00   | 12.0.7601.17514   | 22/07/2009   | Windows Media Player 12 For Windows 7               |
+| Windows Media Player 12 For Windows 8 and 8.1     | Zinc     | 12.00   | 12.0.9600.17031   | 26/10/2012   | Windows Media Player 12 For Windows 8 and 8.1       |
 | Windows Media Player (2022)                       |          | 2022    | N/A               | 15/02/2022   | Windows Media Player (2022)                         |
 
 ---
