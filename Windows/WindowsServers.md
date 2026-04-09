@@ -39,13 +39,13 @@
 | Windows 2000 Service Pack 4                            |Windows NT 5.0      |NT 5.0   |5.0.2195.6717      |  26/06/2003  | Windows 2000 Service Pack 4                              |
 | Windows 2000 Update Rollup 1                           |Windows NT 5.0      |NT 5.0   |5.0.2195.7045      |  28/06/2005  | Windows 2000 Update Rollup 1                             |
 | Windows 2000 Small Business Server                     |Windows NT 5.0      |NT 5.0   |5.0.1176.0         |  21/02/2001  | Windows 2000 Small Business Server                       |
-| Windows 2000 Small Business Server SP1                 |Windows NT 5.0      |NT 5.0   |5.0.1218.0         |              | Windows 2000 Small Business Server SP1                   |
+| Windows 2000 Small Business Server SP1                 |Windows NT 5.0      |NT 5.0   |5.0.1218.0         |  01/01/2002  | Windows 2000 Small Business Server SP1                   |
 | Windows 2000 Small Business Server SP1a                |Windows NT 5.0      |NT 5.0   |5.0.1343.0         |  19/06/2003  | Windows 2000 Small Business Server SP1a                  |
 | Windows 2003 Server                                    |Whistler Server     |NT 5.2   |5.2.3790           |  24/04/2003  | Windows 2003, Web, Standard, Enterprise, Datacenter, Storage Server, Compute Cluster, Unified Data Storage Server                             |
 | Windows 2003 Server SP1                                |Whistler Server     |NT 5.2   |5.2.3790.1830      |  24/04/2003  |Windows 2003 Server Service Pack 1                        |
 | Windows 2003 Small Business Server                     |Bobcat              |NT 5.2   |5.2.2651.030910-1600|  16/09/2003  |Windows Small Business Server 2003                        |
 | Windows 2003 Small Business Server SP1                 |Bobcat              |NT 5.2   |5.2.2893.050429-1656|  19/05/2005  |Windows Small Business Server 2003 Service Pack 1         |
-| Windows Server 2003 R2                                 |Whistler Server     |NT 5.2   |5.2.3790.2075      |  06/12/2005  |Windows 2003, Web R2, Standard R2, Enterprise R2, Datacenter R2, Storage Server R2,                            |
+| Windows Server 2003 R2                                 |Whistler Server     |NT 5.2   |5.2.3790.2075      |  06/12/2005  |Windows 2003, Web R2, Standard R2, Enterprise R2, Datacenter R2, Storage Server R2                            |
 | Windows Home Server                                    |Quattro             |NT 5.2   |5.2.4500           |  04/11/2007  |Windows Home Server                                       |
 | Windows Home Server PP1                                |Update Release 1    |NT 5.2   |1800.080712-1300   |  21/07/2008  |Windows Home Server Power Pack 1                          |
 | Windows Home Server PP2                                |Snoqualmie          |NT 5.2   |2030.090310-2103   |  23/03/2009  |Windows Home Server Power Pack 2                          |
@@ -65,7 +65,7 @@
 | Windows Server 2012                                    |Windows Server 8    |NT 6.2   |9200.16384         |  04/09/2012  | Windows Server 2012, Foundation, Essentials, Standard, Datacenter                            |
 | Windows MultiPoint Server 2012                         |Windows MultiPoint Server "3" |NT 6.2   |6.2.2506.0.121031-2300|  27/11/2012  | Windows MultiPoint Server 2012                           |
 | Windows Server 2012 R2                                 |Server Blue         |NT 6.2   |9600.16384         |  18/10/2013  | Windows Server 2012 R2, Foundation, Essentials, Standard, Datacenter                            |
-| Windows Server 2016                                    |Threshold Server    |1607     |9600.16384         |  12/10/2016  | Windows Server 2016                                      |
-| Windows Server 2019                                    |Redstone 5          |1809     |17763.1.280924     |  02/10/2018  | Windows Server 2019                                      |
-| Windows Server 2022                                    |Iron                |21H2     |20348.169.210805   |  18/09/2021  | Windows Server 2022                                      |
-| Windows Server 2025                                    |                    |24H2     |                   |  ../../2024  | Windows Server 2025                                      |
+| Windows Server 2016                                    |Threshold Server    |1607     |14393.0            |  12/10/2016  | Windows Server 2016                                      |
+| Windows Server 2019                                    |Redstone 5          |1809     |17763.1            |  02/10/2018  | Windows Server 2019                                      |
+| Windows Server 2022                                    |Iron                |21H2     |20348.169          |  18/09/2021  | Windows Server 2022                                      |
+| Windows Server 2025                                    |                    |24H2     |26100.1            |  26/09/2024  | Windows Server 2025                                      |
