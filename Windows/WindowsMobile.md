@@ -11,9 +11,9 @@
 | Windows Mobile 5.0                                     | Magneto           |   WM5   | 5.1.14326         |  09/05/2005  |  Windows Mobile 5.0                                      |
 | Windows Mobile 6.0                                     | Crossbow          |   WM6   | 5.2.17740         |  12/02/2007  |  Windows Mobile 6.0                                      |
 | Windows Mobile 6.1                                     | 6 on 6            |  WM6.1  | 5.2.19202         |  01/04/2008  |  Windows Mobile 6.1                                      |
-| Windows Mobile 6.1.1                                   | 6 on 6            |  WM6.1  | 5.2.19591         |              |  Windows Mobile 6.1.1                                    |
-| Windows Mobile 6.1.2                                   | 6 on 6            |  WM6.1  | 5.2.19965         |              |  Windows Mobile 6.1.2                                    |
-| Windows Mobile 6.1.4                                   | 6 on 6            |  WM6.1  | 5.2.20757         |              |  Windows Mobile 6.1.4                                    |
-| Windows Mobile 6.1.6                                   | 6 on 6            |  WM6.1  | 5.2.21042         |              |  Windows Mobile 6.1.6                                    |
-| Windows Mobile 6.5                                     | Titanium          |  WM6.5  | 5.2.21234         |  01/05/2009  |  Windows Mobile 6.5                                      |
+| Windows Mobile 6.1.1                                   | 6 on 6            |  WM6.1  | 5.2.19591         |  01/09/2008  |  Windows Mobile 6.1.1                                    |
+| Windows Mobile 6.1.2                                   | 6 on 6            |  WM6.1  | 5.2.19965         |  01/12/2008  |  Windows Mobile 6.1.2                                    |
+| Windows Mobile 6.1.4                                   | 6 on 6            |  WM6.1  | 5.2.20757         |  01/06/2009  |  Windows Mobile 6.1.4                                    |
+| Windows Mobile 6.1.6                                   | 6 on 6            |  WM6.1  | 5.2.21042         |  01/10/2009  |  Windows Mobile 6.1.6                                    |
+| Windows Mobile 6.5                                     | Titanium          |  WM6.5  | 5.2.21234         |  11/05/2009  |  Windows Mobile 6.5                                      |
 | Windows Mobile 6.5.3                                   | Titanium          |  WM6.5  | 5.2.23103         |  02/02/2010  |  Windows Mobile 6.5.3                                    |
