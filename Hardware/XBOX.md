@@ -26,6 +26,17 @@
 | Xbox Controller S                                      | Akebono           | N/A     | N/A               |  14/03/2002  | Xbox Controller S                                        |
 | Xbox Kinect                                            | Natal             | V1      | N/A               |  10/11/2010  | Xbox Kinect                                              |
 
+# Xbox / Kinect / Game Accessories
+
+| Name                                                   | Codename          | Version | Build Number      | Release Date | Release Name                                             |
+| :----------------------------------------------------- | :---------------: | :-----: | :---------------: | -----------: | :------------------------------------------------------- |
+| Xbox Adaptive Controller                               | N/A               | N/A     | N/A               |  28/09/2018   | Xbox Adaptive Controller                                  |
+| Xbox Wireless Adapter for Windows                      | N/A               | N/A     | N/A               |  12/11/2015   | Xbox Wireless Adapter for Windows                         |
+| Xbox Elite Wireless Controller                         | N/A               | N/A     | N/A               |  27/10/2015   | Xbox Elite Wireless Controller                            |
+| Kinect for Xbox 360                                    | Natal             | V1      | N/A               |  10/11/2010   | Kinect for Xbox 360                                       |
+| Kinect for Xbox One                                    | N/A               | V2      | N/A               |  04/11/2013   | Kinect for Xbox One                                       |
+| Microsoft RoundTable                                    | N/A               | N/A     | N/A               |  01/03/2007   | Microsoft RoundTable                                       |
+
 
 ![Xbox](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/Xbox/XboxOG.jpeg)
 
