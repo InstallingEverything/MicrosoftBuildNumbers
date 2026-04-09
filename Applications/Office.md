@@ -52,11 +52,11 @@ This section lists Microsoft Office for Mac versions, including codenames, build
 | Microsoft Office 2004 for Mac     |          | 11.0    | N/A          | 11/05/2004   | Microsoft Office 2004 for Mac       |
 | Microsoft Office 2008 for Mac     |          | 12.0    | N/A          | 15/01/2008   | Microsoft Office 2008 for Mac       |
 | Microsoft Office 2011 for Mac     |          | 14.0    | N/A          | 26/10/2011   | Microsoft Office 2011 for Mac       |
+| Microsoft Office 2016 for Mac     |          | 15.0    | N/A          | 09/07/2016   | Microsoft Office 2016 for Mac       |
+| Microsoft Office 2019 for Mac     |          | 16.0    | N/A          | 24/07/2018   | Microsoft Office 2019 for Mac       |
+| Microsoft Office 2021 for Mac     |          | 16.0    | N/A          | 05/10/2021   | Microsoft Office 2021 for Mac       |
+| Microsoft Office 2024 for Mac     |          | 16.0    | N/A          | 16/09/2024   | Microsoft Office 2024 for Mac       |
 
 ---
 
 *Last updated: April 9, 2026*
-| Microsoft Office 2016 for Mac                          |                   |  15.0   |                   |  09/07/2016  |  Microsoft Office 2016 for Mac                           |
-| Microsoft Office 2019 for Mac                          |                   |  16.0   |                   |  24/07/2018  |  Microsoft Office 2019 for Mac                           |
-| Microsoft Office 2021 for Mac                          |                   |  16.0   |                   |  05/10/2021  |  Microsoft Office 2021 for Mac                           |
-| Microsoft Office 2024 for Mac                          |                   |  16.0   |                   |  16/09/2024  |  Microsoft Office 2024 for Mac                           |
