@@ -19,7 +19,7 @@
 | Windows 3.1                                            | Janus             |   3.1   |      103          |  06/04/1992  | Windows 3.1                                              |
 | Windows 3.1 WFW                                        | Kato,Sparta       |   3.10  |      102          |  31/10/1992  | Windows for Workgroups 3.1                               |
 | Windows NT 3.1                                         | Razzle            |   3.10  |      528          |  27/07/1993  | Windows NT 3.1                                           |
-| Windows NT 3.1 SP3                                     | Razzle            |   3.10  |      528          |    /11/1994  | Windows NT 3.1, Service Pack 3                           | 
+| Windows NT 3.1 SP3                                     | Razzle            |   3.10  |      528          |  29/10/1994  | Windows NT 3.1, Service Pack 3                           |
 | Windows 3.11                                           | Janus             |   3.11  |                   |  08/11/1993  | Windows 3.11                                             |
 | Windows 3.11 WFW                                       | Snowball          |   3.11  |      300          |  08/11/1993  | Windows for Workgroups 3.11                              |
 | Windows 3.2                                            | Cougar            |   3.2   |      153          |  22/11/1993  | Windows 3.2                                              |
@@ -55,32 +55,30 @@
 | Windows XP Media Center Edition 2003                   | Freestyle/eHome   | NT 5.1  |2600.1106.020828-1920|  29/10/2002  | Windows XP Media Center Edition 2003                   |
 | Windows XP Media Center Edition 2004                   | Harmony           | NT 5.1  |2600.1217.030729-0430|  30/09/2003  | Windows XP Media Center Edition 2004                   |
 | Windows XP Media Center Edition 2005                   | Symphony          | NT 5.1  |2700.2180.040810-0205|  12/10/2004  | Windows XP Media Center Edition 2005                   |
-| Windows XP Media Center Edition 2005 Update Rollup 1   |                   | NT 5.1  |2700.2230          |              | Windows XP Media Center Edition 2005 Update Rollup 1     |
+| Windows XP Media Center Edition 2005 Update Rollup 1   |                   | NT 5.1  |2700.2230          |  11/10/2004  | Windows XP Media Center Edition 2005 Update Rollup 1     |
 | Windows XP Media Center Edition 2005 Update Rollup 2   | Emerald           | NT 5.1  |2710.2732.050805-1239|  14/10/2005  | Windows XP Media Center Edition 2005 Update Rollup 2   |
 | Windows XP Tablet PC Edition                           | Lonestar          | NT 5.1  |     2600.1106     |  07/11/2002  | Windows XP Tablet PC Edition                             |
-| Windows XP Tablet PC Edition 2005                      | Vex               | NT 5.1  |     2600.2180     |  07/11/2002  | Windows XP Tablet PC Edition 2005                        |
+| Windows XP Tablet PC Edition 2005                      | Vex               | NT 5.1  |     2600.2180     |  25/08/2004  | Windows XP Tablet PC Edition 2005                        |
 | Windows XP Starter Edition                             | Creekside         | NT 5.1  |     2600.2901     |  11/08/2004  | Windows Starter Edition                                  |
 | Windows XP Starter Edition SP3                         | Creekside         | NT 5.1  |     2600.5512     |  21/04/2008  | Windows Starter Edition Service Pack 3                   |
 | Windows XP x64 Edition                                 | Anvil             | NT 5.2  |     3790          |  25/04/2005  | Windows XP Professional x64 Edition                      |
-| Windows Vista                                          | Longhorn          | NT 6.0  |     6002.16386    |  30/01/2007  | Windows Vista, Starter, Home Basic, Home Premium, Business, Enterprise, Ultimate                      |
-| Windows Vista, Media Center Addon                      | Diamond           | NT 6.0  |     6002.16386    |              | Windows Vista With Media Center                          |
-| Windows Vista SP1                                      | Longhorn          | NT 6.0  |     6002.18000    |  18/02/2008  | Windows Vista Service Pack 1                             |
+| Windows Vista                                          | Longhorn          | NT 6.0  |     6000.16386    |  30/01/2007  | Windows Vista, Starter, Home Basic, Home Premium, Business, Enterprise, Ultimate                      |
+| Windows Vista, Media Center Addon                      | Diamond           | NT 6.0  |     6000.16386    |  12/11/2006  | Windows Vista With Media Center                          |
+| Windows Vista SP1                                      | Longhorn          | NT 6.0  |     6001.18000    |  18/02/2008  | Windows Vista Service Pack 1                             |
 | Windows Vista SP2                                      | Longhorn          | NT 6.0  |     6002.18005    |  26/05/2009  | Windows Vista Service Pack 2                             |
 | Windows 7                                              | Blackcomb         | NT 6.1  |     7600.16385    |  22/10/2009  | Windows 7, Starter, Home Basic, Home Premium, Professional, Enterprise, Ultimate                             |
-| Windows 7 SP1                                          | Blackcomb         | NT 6.1  |     7601.17514    |  09/02/2011  | Windows 7 Service Pack 1                                 |
-| Windows 8                                              | Windows8/Midori   | NT 6.2  |     6.2.9200      |  06/11/2011  | Windows 8 Home, Pro, Enterprise                          |
-| Windows 8.1                                            | Blue              | NT 6.3  |     6.3.9200      |  17/10/2013  | Windows 8.1 Home, Pro, Enterprise                        |
-| Windows 8.1 Update 1                                   | Blue              | NT 6.3  |     6.3.9600      |  17/10/2013  | Windows 8.1 Update 1                                     |
+| Windows 8                                              | Windows8/Midori   | NT 6.2  |     6.2.9200      |  26/10/2012  | Windows 8 Home, Pro, Enterprise                          |
+| Windows 8.1 Update 1                                   | Blue              | NT 6.3  |     6.3.9600      |  08/04/2014  | Windows 8.1 Update 1                                     |
 | Windows 10 (1507)                                      | Threshold         | NT 10.0 |    10.0.10240     |  29/07/2015  | Windows 10 (1507) Home, Pro, Education, Enterprise, S    |
 | Windows 10 (November Update) (1511)                    | Threshold 2       |   1511  |    10.0.10586     |  10/11/2015  | Windows 10 (November Update) (1511)                      |
 | Windows 10 (Anniversary Update) (1607)                 | Redstone 1        |   1607  |    10.0.14393     |  02/08/2016  | Windows 10 (Anniversary Update) (1607)                   |
-| Windows 10 (Creators Update) (1703)                    | Redstone 2        |   1703  |    10.0.15063     |  02/08/2016  | Windows 10 (Creators Update) (1703)                      |
+| Windows 10 (Creators Update) (1703)                    | Redstone 2        |   1703  |    10.0.15063     |  11/04/2017  | Windows 10 (Creators Update) (1703)                      |
 | Windows 10 (Fall Creators Update) (1709)               | Redstone 3        |   1709  |    10.0.16299     |  17/10/2017  | Windows 10 (Fall Creators Update) (1709)                 |
 | Windows 10 (April 2018 Update) (1803)                  | Redstone 4        |   1803  |    10.0.17134     |  30/04/2018  | Windows 10 (April 2018 Update) (1803)                    |
 | Windows 10 (October 2018 Update) (1809)                | Redstone 5        |   1809  |    10.0.17763     |  02/10/2018  | Windows 10 (October 2018 Update) (1809)                  |
 | Windows 10 (May 2019 Update) (1903)                    | 19H1              |   1903  |    10.0.18362     |  21/05/2019  | Windows 10 (May 2019 Update) (1903)                      |
-| Windows 10 (November 2019 Update) (1909)               | Vanadium          |   1903  |    10.0.18363     |  12/11/2019  | Windows 10 (November 2019 Update) (1909)                 |
-| Windows 10 (May 2020 Update) (2004)                    | Vibranium         |   1903  |    10.0.19041     |  27/05/2020  | Windows 10 (May 2020 Update) (2004)                      |
+| Windows 10 (November 2019 Update) (1909)               | Vanadium          |   1909  |    10.0.18363     |  12/11/2019  | Windows 10 (November 2019 Update) (1909)                 |
+| Windows 10 (May 2020 Update) (2004)                    | Vibranium         |   2004  |    10.0.19041     |  27/05/2020  | Windows 10 (May 2020 Update) (2004)                      |
 | Windows 10 (October 2020 Update) (20H2)                | Vibranium         |   20H2  |    10.0.19042     |  20/10/2020  | Windows 10 (October 2020 Update) (20H2)                  |
 | Windows 10 (May 2021 Update) (21H1)                    | Vibranium         |   21H1  |    10.0.19043     |  18/05/2021  | Windows 10 (May 2021 Update) (21H1)                      |
 | Windows 10 (November 2021 Update) (21H2)               | Vibranium         |   21H2  |    10.0.19044     |  16/11/2021  | Windows 10 (November 2021 Update) (21H2)                 |
