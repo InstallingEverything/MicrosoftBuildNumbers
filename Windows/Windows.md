@@ -68,6 +68,7 @@
 | Windows Vista SP2                                      | Longhorn          | NT 6.0  |     6002.18005    |  26/05/2009  | Windows Vista Service Pack 2                             |
 | Windows 7                                              | Blackcomb         | NT 6.1  |     7600.16385    |  22/10/2009  | Windows 7, Starter, Home Basic, Home Premium, Professional, Enterprise, Ultimate                             |
 | Windows 8                                              | Windows8/Midori   | NT 6.2  |     6.2.9200      |  26/10/2012  | Windows 8 Home, Pro, Enterprise                          |
+| Windows 8.1                                            | Blue              | NT 6.3  |     6.3.9600      |  17/10/2013  | Windows 8.1                                            |
 | Windows 8.1 Update 1                                   | Blue              | NT 6.3  |     6.3.9600      |  08/04/2014  | Windows 8.1 Update 1                                     |
 | Windows 10 (1507)                                      | Threshold         | NT 10.0 |    10.0.10240     |  29/07/2015  | Windows 10 (1507) Home, Pro, Education, Enterprise, S    |
 | Windows 10 (November Update) (1511)                    | Threshold 2       |   1511  |    10.0.10586     |  10/11/2015  | Windows 10 (November Update) (1511)                      |
@@ -75,7 +76,7 @@
 | Windows 10 (Creators Update) (1703)                    | Redstone 2        |   1703  |    10.0.15063     |  11/04/2017  | Windows 10 (Creators Update) (1703)                      |
 | Windows 10 (Fall Creators Update) (1709)               | Redstone 3        |   1709  |    10.0.16299     |  17/10/2017  | Windows 10 (Fall Creators Update) (1709)                 |
 | Windows 10 (April 2018 Update) (1803)                  | Redstone 4        |   1803  |    10.0.17134     |  30/04/2018  | Windows 10 (April 2018 Update) (1803)                    |
-| Windows 10 (October 2018 Update) (1809)                | Redstone 5        |   1809  |    10.0.17763     |  02/10/2018  | Windows 10 (October 2018 Update) (1809)                  |
+| Windows 10 (October 2018 Update) (1809)                | Redstone 5        |   1809  |    10.0.17763     |  13/11/2018  | Windows 10 (October 2018 Update) (1809)                  |
 | Windows 10 (May 2019 Update) (1903)                    | 19H1              |   1903  |    10.0.18362     |  21/05/2019  | Windows 10 (May 2019 Update) (1903)                      |
 | Windows 10 (November 2019 Update) (1909)               | Vanadium          |   1909  |    10.0.18363     |  12/11/2019  | Windows 10 (November 2019 Update) (1909)                 |
 | Windows 10 (May 2020 Update) (2004)                    | Vibranium         |   2004  |    10.0.19041     |  27/05/2020  | Windows 10 (May 2020 Update) (2004)                      |
@@ -86,5 +87,7 @@
 | Windows 11 (21H2)                                      | Sun Valley        |   21H2  | 22000.194         |  05/10/2021  | Windows 11 (21H2)                                        |
 | Windows 11 (22H2)                                      | Sun Valley 2      |   22H2  | 22621.382         |  20/09/2022  | Windows 11 (22H2)                                        |
 | Windows 11 (23H2)                                      | Sun Valley 2      |   23H2  | 22631.2715        |  14/11/2023  | Windows 11 (23H2)                                        |
-| Windows 11 (24H2)                                      |                   |   24H2  | 26100.1617        |  01/10/2024  | Windows 11 (24H2)                                        |
+| Windows 11 (24H2)                                      | Germanium         |   24H2  | 26100.1617        |  01/10/2024  | Windows 11 (24H2)                                        |
+| Windows 11 (25H2)                                      |                   |   25H2  | 26200             |  30/09/2025  | Windows 11 (25H2)                                        |
+| Windows 11 (26H1)                                      | Bromine           |   26H1  | 28000             |  10/02/2026  | Windows 11 (26H1)                                        |
 
