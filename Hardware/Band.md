@@ -5,8 +5,8 @@
 
 | Name                                                   | Codename          | Version | Build Number      | Release Date | Release Name                                             |
 | :----------------------------------------------------- | :---------------: | :-----: | :---------------: | -----------: | :------------------------------------------------------- | 
-| Microsoft Band                                         |                   |    1    |                   |  30/10/2014  | Microsoft Band                                           |
-| Microsoft Band 2                                       | Envoy             |    2    |                   |  30/10/2015  | Microsoft Band 2                                         |
+| Microsoft Band                                         |                   |    1    | N/A               |  30/10/2014  | Microsoft Band                                           |
+| Microsoft Band 2                                       | Envoy             |    2    | N/A               |  30/10/2015  | Microsoft Band 2                                         |
 
 
 ![Band](https://github.com/InstallingEverything/MicrosoftBuildNumbers/blob/main/Images/Band/BANDONE.jpeg)
