@@ -1,4 +1,4 @@
 | Name                                                   | Codename          | Version | Build Number      | Release Date | Release Name                                             |
 | :----------------------------------------------------- | :---------------: | :-----: | :---------------: | -----------: | :------------------------------------------------------- |
-| Microsoft Digital Sound System 90                      | Foghorn           |         |                   |              | Microsoft Digital Sound System 90                        |
-| Windows Dev Kit 2023                                   | Project Volterra  |         |                   |  24/05/2023  | Windows Dev Kit 2023                                     |
+| Microsoft Digital Sound System 90                      | Foghorn           | N/A     | N/A               | N/A           | Microsoft Digital Sound System 90                        |
+| Windows Dev Kit 2023                                   | Project Volterra  | N/A     | N/A               |  24/10/2022   | Windows Dev Kit 2023                                     |
