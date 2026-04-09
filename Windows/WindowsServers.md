@@ -51,6 +51,7 @@
 | Windows Home Server PP2                                |Snoqualmie          |NT 5.2   |2030.090310-2103   |  23/03/2009  |Windows Home Server Power Pack 2                          |
 | Windows Home Server PP3                                |                    |NT 5.2   |2423091007-1218    |  09/11/2009  |Windows Home Server Power Pack 3                          |
 | Windows 2008 Server                                    |Longhorn Server     |NT 6.0   |6001.18000         |  27/02/2008  | Windows 2008, Web, Standard, Enterprise, Datacenter, Storage Server, Foundation                            |
+| Windows Server 2008 Service Pack 2                     |Longhorn Server     |NT 6.0   |6002.18005         |  26/05/2009  | Windows Server 2008 Service Pack 2                       |
 | Windows Small Business Server 2008                     |Cougar              |NT 6.0   |5601.080812-1706   |  21/09/2008  | Windows Small Business Server 2008                       |
 | Windows Hyper-V Server 2008                            |Viridian            |NT 6.0   |6001.18000         |  27/02/2008  | Windows Hyper-V Server 2008                              |
 | Windows Essential Business Server 2008                 |Centro              |NT 6.0   |5700.0.080902-1741 |  12/11/2008  | Windows Essential Business Server 2008                   |
@@ -65,7 +66,15 @@
 | Windows Server 2012                                    |Windows Server 8    |NT 6.2   |9200.16384         |  04/09/2012  | Windows Server 2012, Foundation, Essentials, Standard, Datacenter                            |
 | Windows MultiPoint Server 2012                         |Windows MultiPoint Server "3" |NT 6.2   |6.2.2506.0.121031-2300|  27/11/2012  | Windows MultiPoint Server 2012                           |
 | Windows Server 2012 R2                                 |Server Blue         |NT 6.2   |9600.16384         |  18/10/2013  | Windows Server 2012 R2, Foundation, Essentials, Standard, Datacenter                            |
-| Windows Server 2016                                    |Threshold Server    |1607     |14393.0            |  12/10/2016  | Windows Server 2016                                      |
-| Windows Server 2019                                    |Redstone 5          |1809     |17763.1            |  02/10/2018  | Windows Server 2019                                      |
-| Windows Server 2022                                    |Iron                |21H2     |20348.169          |  18/09/2021  | Windows Server 2022                                      |
-| Windows Server 2025                                    |                    |24H2     |26100.1            |  26/09/2024  | Windows Server 2025                                      |
+| Windows Server, version 1709                           |Redstone 3          |1709     |16299              |  17/10/2017  | Windows Server Semi-Annual Channel                       |
+| Windows Server, version 1803                           |Redstone 4          |1803     |17134              |  30/04/2018  | Windows Server Semi-Annual Channel                       |
+| Windows Server, version 1809                           |Redstone 5          |1809     |17763              |  13/11/2018  | Windows Server Semi-Annual Channel                       |
+| Windows Server, version 1903                           |19H1                |1903     |18362              |  21/05/2019  | Windows Server Semi-Annual Channel                       |
+| Windows Server, version 1909                           |Vanadium            |1909     |18363              |  12/11/2019  | Windows Server Semi-Annual Channel                       |
+| Windows Server, version 2004                           |Vibranium           |2004     |19041              |  26/06/2020  | Windows Server Semi-Annual Channel                       |
+| Windows Server, version 20H2                           |Iron                |20H2     |19042              |  20/10/2020  | Windows Server Semi-Annual Channel                       |
+| Windows Server 2016                                    |Threshold Server    |1607     |14393.8957         |  12/10/2016  | Windows Server 2016                                      |
+| Windows Server 2019                                    |Redstone 5          |1809     |17763.8511         |  02/10/2018  | Windows Server 2019                                      |
+| Windows Server 2022                                    |Iron                |21H2     |20348.4893         |  18/09/2021  | Windows Server 2022                                      |
+| Windows Server, version 23H2                           |Zinc                |23H2     |25398              |  14/10/2023  | Windows Server Annual Channel                            |
+| Windows Server 2025                                    |                    |24H2     |26100.32522        |  26/09/2024  | Windows Server 2025                                      |
